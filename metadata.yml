@@ -1,4 +1,5 @@
-creativeWorkStatus: Incomplete
+---
+creativeWorkStatus: "Draft" # Incomplete, Draft, Published
 name: >-
   Das Netzwerk Landesportal infOERmiert - Sammlung der Blogbeiträge in der
   Community of Practice
