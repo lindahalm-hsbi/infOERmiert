@@ -1,8 +1,14 @@
 ---
 creativeWorkStatus: "Draft" # Incomplete, Draft, Published
-name: >-
-  Das Netzwerk Landesportal infOERmiert - Sammlung der Blogbeiträge in der
-  Community of Practice
+creator:
+  - givenName: "Max"
+    familyName: "Mustermann"
+  - givenName: "Maxi"
+    familyName: "Mustermann"
+publisher:
+  givenName: "Max"
+  familyName: "Mustermann"
+  
 description: Zusammenfassung
 license:
   id: https://creativecommons.org/licenses/by/4.0/deed.de
