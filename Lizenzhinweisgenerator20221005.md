@@ -1,3 +1,5 @@
+![OER-nutzen](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/7fa15b64-bee4-42a7-931a-9794b2f3a3cf)
+![lizenzhinweisgenerator](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/8f7782df-19bb-4d62-a313-68152a16d34e)
 # Quellenangaben leicht gemacht! – Der Lizenzhinweisgenerator
 
 
