@@ -1,21 +1,20 @@
----
-name: "My OER Course"
+creativeWorkStatus: Incomplete
+name: >-
+  Das Netzwerk Landesportal infOERmiert - Sammlung der Blogbeiträge in der
+  Community of Practice
+description: Zusammenfassung
+license:
+  id: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://github.com/lindahalm-hsbi/infOERmiert/
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
-publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  - name: Netzwerk Landesportal ORCA.nrw
+    type: Organization
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
-thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+  - Schlagwort 1
+  - Schlagwort 2
+inLanguage:
+  - de
+learningResourceType:
+  - https://w3id.org/kim/hcrt/text
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
