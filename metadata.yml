@@ -8,7 +8,6 @@ creator:
 publisher:
   givenName: "Max"
   familyName: "Mustermann"
-  
 description: Zusammenfassung
 license:
   id: https://creativecommons.org/licenses/by/4.0/deed.de
