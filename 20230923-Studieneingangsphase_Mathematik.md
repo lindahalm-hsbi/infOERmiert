@@ -1,11 +1,17 @@
 # Schulmathematik auffrischen: Online-Mathematikkurse zum Studienstart auf ORCA.nrw
 
-![school-calculator_1](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062)
 **Lehren Sie in einem Fach mit Mathematikbezug? Und benötigen Ihre Studierenden gerade zum Studienstart eine Auffrischung in der Schulmathematik? Dann empfehlen Sie Ihren Studierenden die offenen Online-Mathematikkurse auf ORCA.nrw!**
 
-![school calculator_1](file:///C:/ORCA.nrw/CoP/school-calculator_1.png)
+<div class="pull-left">
+<p>![grafik](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/7ec81426-a688-49ce-885d-2ad7c90fd269)
+Für die [Studieneingangsphase](https://www.orca.nrw/studierende/studieneingangsphase) der WINT-Fächer Wirtschaftswissenschaften, Informatik, Naturwissenschaften und Technik gibt es verschiedene Angebote.</p>
+</div>
 
-Für die [Studieneingangsphase](https://www.orca.nrw/studierende/studieneingangsphase) der WINT-Fächer Wirtschaftswissenschaften, Informatik, Naturwissenschaften und Technik gibt es verschiedene Angebote.
+</div>
+<div class="pull-right">
+![school-calculator_1](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062)
+</div>
+
 
 Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
