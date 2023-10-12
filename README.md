@@ -8,12 +8,12 @@ This is a template for open and freely licensed texts that delivers appealing, a
 
 With every save (commit) the documents are generated and available via:
 
-* [landing page](https://tibhannover.github.io/markdown-documents-template/)
+* [landing page](https://lindahalm-hsbi.github.io/infOERmiert/)
 
 or directly 
-* [Ebook](https://tibhannover.github.io/markdown-documents-template/document.epub)
-* [PDF](https://tibhannover.github.io/markdown-documents-template/document.pdf)
-* [HTML](https://tibhannover.github.io/markdown-documents-template/document.html)
+* [Ebook](https://lindahalm-hsbi.github.io/infOERmiert/document.epub)
+* [PDF](https://lindahalm-hsbi.github.io/infOERmiert/document.pdf)
+* [HTML](https://lindahalm-hsbi.github.io/infOERmiert/document.html)
 
 # Use this template
 
