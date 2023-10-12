@@ -1,14 +1,10 @@
-
-
 # ORCA.nrw-Materialtipp: digi-komp.nrw
- 
-## Förderung der Medien- und Informationskompetenz
- 
 
+**Förderung der Medien- und Informationskompetenz**
 
 Was sind gute Suchbegriffe? Wie erkenne ich „Fake Science?“ Und wo  fängt ein Plagiat an? Die Materialien aus dem Projekt digi-komp.nrw  helfen beim **wissenschaftlichen Arbeiten** und eignen sich daher für den Einsatz in vielen Fachbereichen.
 
-![ Screenshot aus dem Video “Bibliometrie“ von Sara Maria Koslowski und Christoph Benedikt Heine, CC BY-SA 4.0.](Bildschirmfoto%202023-08-30%20um%2009.49.23.png)
+ ![Bildschirmfoto 2023-08-30 um 09 49 23](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/0436787f-9d17-4448-bfae-873bfe4dc191)
  
 **Um was geht es?**
  
@@ -23,9 +19,7 @@ Auf ORCA stehen aus dem Projekt diverse Lerneinheiten zur Verfügung, die in ein
 ▶️ [Materialien des Projekts im ORCA-Repositorium](https://www.orca.nrw/searchresults?searchbox=%22digikomp%22&amp;provider=%5B%22ORCA.nrw%22%5D)
  
 *Fragen zum Projekt beantworten:*
- 
 *Uwe Stadler, stadler@uni-wuppertal.de und Dr. Anja Platz-Schliebs, aplatz@uni-wuppertal.de*
-
 
 ## Bildnachweise
 Abbildung: Screenshot aus dem Video [“Bibliometrie“](https://www.orca.nrw/content/0bdcab90-3ae2-4b06-bbc0-1ab124799aa5) von Sara Maria Koslowski und Christoph Benedikt Heine, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
