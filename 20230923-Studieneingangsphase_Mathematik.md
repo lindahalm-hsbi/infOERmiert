@@ -16,7 +16,7 @@ verfügbar. Am Anfang des Kurses steht ein Eingangstest, der weiter führt
 Die Angebote sind als Open Educational Resources unter CC BY oder CC  BY-SA Lizenz veröffentlicht. So können Sie als Lehrende das Material bei  Bedarf auch nachnutzen und verändern.
 ## Weiterlesen
 
-▶️ [Zur Webseite Studieneingangs­phase auf ORCA.nrw](https://www.orca.nrw/studierende/studieneingangsphase)
+[Zur Webseite Studieneingangs­phase auf ORCA.nrw](https://www.orca.nrw/studierende/studieneingangsphase)
 
 ## Bildnachweise
 Grafik von [CocoMaterial](https://cocomaterial.com/) CC0
