@@ -3,8 +3,9 @@
  
 Das Modul SA ([share alike](https://creativecommons.org/licenses/by-sa/4.0/deed.de)) der Creative-Commons-Lizenzen legt als Bedingung fest, dass **Bearbeitungen des mit SA-lizenzierten Materials nur unter der ursprünglichen Lizenz veröffentlicht werden dürfen**.  Die Lizenz wird sozusagen vererbt. Das bedeutet, wenn eine Präsentation  mit einer CC BY-SA-Lizenz nachgenutzt und bearbeitet wurde, so muss sie  grundsätzlich wieder vom Bearbeitenden unter eine CC BY-SA-Lizenz  gestellt werden.
 
-![Symbol des SA-Moduls der CC-Lizenzen: runder, nicht geschlossener schwarzer Pfeil in einem schwarzen Kreis](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png  "sa.xlarge.png")
- 
+![Symbol des SA-Moduls der CC-Lizenzen: runder, nicht geschlossener schwarzer Pfeil in einem schwarzen Kreis](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
+
+
 Aus [§ 3 UrhG](https://www.gesetze-im-internet.de/urhg/__3.html) (Urheberrechtsgesetz) geht hervor, dass **Bearbeitungen geistige Schöpfungen des oder der Bearbeitenden sind und wie selbständige Werke geschützt sind**.  Damit also eine Veränderung des Werkes eine Bearbeitung im Sinne des  UrhG darstellt, muss sie – wie jedes schutzwürdige Werk – die s. g.  Schöpfungshöhe erreichen. Zu Bearbeitungen zählen Verfilmungen eines  Buches oder Übersetzungen in eine andere Sprache. Von Bearbeitungen sind  nicht-schöpferische Umgestaltungen abzugrenzen. Hierbei handelt es sich  um unwesentliche Hinzufügungen oder geringfügige Änderungen, z. B.  eines Textes beim Redigieren. Die SA-Bedingung kommt nicht zum Tragen,  wenn man Lehrmaterialien anderer unverändert (oder nur unwesentlich  verändert) und in Gänze nutzen möchte.
  
 ## Weitere Konsequenz:
