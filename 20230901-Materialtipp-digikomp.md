@@ -14,9 +14,9 @@ Das durch das MKW NRW geförderte Projekt [digi-komp.nrw](https://digi-komp.nrw/
  
 Auf ORCA stehen aus dem Projekt diverse Lerneinheiten zur Verfügung, die in einer eigenen [Themenwelt zu Digitalen Kompetenzen](https://www.orca.nrw/orca-themenwelten/digitale-kompetenzen)  zu finden sind. Zudem sind die Moodle-Kurse und Erklärvideos im  ORCA-Repositorium auch einzeln zum Download verfügbar. Alle Materialien  stehen unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Auffindbar sind sie, wenn Sie in der ORCA.nrw-Suche "digikomp" als Suchbegriff eingeben.
  
-▶️ [Themenwelt Digitale Kompetenzen auf ORCA.nrw](https://www.orca.nrw/orca-themenwelten/digitale-kompetenzen)
+[Themenwelt Digitale Kompetenzen auf ORCA.nrw](https://www.orca.nrw/orca-themenwelten/digitale-kompetenzen)
 
-▶️ [Materialien des Projekts im ORCA-Repositorium](https://www.orca.nrw/searchresults?searchbox=%22digikomp%22&amp;provider=%5B%22ORCA.nrw%22%5D)
+[Materialien des Projekts im ORCA-Repositorium](https://www.orca.nrw/searchresults?searchbox=%22digikomp%22&amp;provider=%5B%22ORCA.nrw%22%5D)
  
 *Fragen zum Projekt beantworten:*
 *Uwe Stadler, stadler@uni-wuppertal.de und Dr. Anja Platz-Schliebs, aplatz@uni-wuppertal.de*
