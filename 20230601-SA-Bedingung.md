@@ -16,7 +16,9 @@ Allerdings sollte man sich als Autorin oder Autor sehr genau überlegen, warum m
  
 ## Bildnachweise
 Das [SA-Icon](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/).
+
 ## Tags
 CC-Lizenzen, Creative Commons
+
 ## Lizenznachweis
 Magdalena Spaude für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 01.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
