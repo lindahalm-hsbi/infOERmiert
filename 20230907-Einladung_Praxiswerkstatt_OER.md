@@ -12,11 +12,11 @@ Wir freuen uns, Sie begrüßen zu dürfen!
 
 [Programm der Praxiswerkstatt mit Anmeldelinks](https://www.orca.nrw/praxiswerkstatt-oer)
 
-## Bildnachweise
+### Bildnachweise
 Eigene Grafik
 
-## Tags
+### Tags
 OER, Medien, Veranstaltungstipps
 
-## Lizenznachweis
+### Lizenznachweis
 Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 07.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
