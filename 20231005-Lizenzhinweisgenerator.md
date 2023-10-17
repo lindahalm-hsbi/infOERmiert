@@ -28,18 +28,18 @@ Bildnachweis / URL: https://upload.wikimedia.org/wikipedia/commons/8/84/OER_Nutz
 
 Die **Lizenzangabe** zum Bild aus unserem Beispiel lautet gemäß unserer Eingaben nun: **“sOER Frank, <a href="https://commons.wikimedia.org/wiki/File:OER_Nutzen.png" target="_blank">OER Nutzen</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" target="_blank">CC BY 2.0</a>”** und enthält somit alle notwendigen Angaben nach der für OER maßgeblichen TULLU-Regel. Sie können diese Angabe nun auch nachträglich noch in unterschiedlichen Versionen (Text, Plain Text und HTML) kopieren und direkt verwenden.
 
-## Quellenangaben
+### Quellenangaben
 Hier geht es direkt zum <a href="https://lizenzhinweisgenerator.de/" target="_blank">Lizenzhinweisgenerator</a>
 
 <a href="https://youtu.be/BTpOdmVBmaE" target="_blank">OERklärt - Der Lizenzhinweisgenerator</a> - Ein Video von Jöran Muuß-Merholz
 
 Eselsbrücke für die Formulierung von Lizenzangaben: <a href="https://open-educational-resources.de/oer-tullu-regel/" target="_blank">Die TULLU-Regel</a>
 
-## Bildnachweise
+### Bildnachweise
 Bildnachweise: Screenshot „Lizenzhinweisgenerator“; Bild aus Beispiel: “sOER Frank, <a href="https://commons.wikimedia.org/wiki/File:OER_Nutzen.png" target="_blank">OER Nutzen</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" target="_blank">CC BY 2.0</a>”
 
-## Tags
+### Tags
 Lizenzierung, OER Netzwerk Landesportal infOERmiert, CC-Lizenz
 
-## Lizenznachweis
+### Lizenznachweis
 Henrike Heckmann für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 05.10.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
