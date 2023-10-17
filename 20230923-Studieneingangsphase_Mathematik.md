@@ -20,8 +20,10 @@ Die Angebote sind als Open Educational Resources unter CC BY oder CC  BY-SA Lize
 
 ## Bildnachweise
 Grafik von [CocoMaterial](https://cocomaterial.com/) CC0
+
 ## Tags
 Studienstart, Selbstlernkurse, Mathematik
+
 ## Lizenznachweis
 Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 28.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
