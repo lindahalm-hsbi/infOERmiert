@@ -21,11 +21,11 @@ Auf ORCA stehen aus dem Projekt diverse Lerneinheiten zur Verfügung, die in ein
 *Fragen zum Projekt beantworten:*
 *Uwe Stadler, stadler@uni-wuppertal.de und Dr. Anja Platz-Schliebs, aplatz@uni-wuppertal.de*
 
-## Bildnachweise
+### Bildnachweise
 Abbildung: Screenshot aus dem Video [“Bibliometrie“](https://www.orca.nrw/content/0bdcab90-3ae2-4b06-bbc0-1ab124799aa5) von Sara Maria Koslowski und Christoph Benedikt Heine, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
-## Tags
+### Tags
 OER, Materialtipp, ORCA.nrw
 
-## Lizenznachweis
+### Lizenznachweis
 Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 01.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
