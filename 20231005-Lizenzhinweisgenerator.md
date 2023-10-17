@@ -37,7 +37,9 @@ Eselsbrücke für die Formulierung von Lizenzangaben: <a href="https://open-educ
 
 ## Bildnachweise
 Bildnachweise: Screenshot „Lizenzhinweisgenerator“; Bild aus Beispiel: “sOER Frank, <a href="https://commons.wikimedia.org/wiki/File:OER_Nutzen.png" target="_blank">OER Nutzen</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" target="_blank">CC BY 2.0</a>”
+
 ## Tags
 Lizenzierung, OER Netzwerk Landesportal infOERmiert, CC-Lizenz
+
 ## Lizenznachweis
 Henrike Heckmann für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 05.10.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
