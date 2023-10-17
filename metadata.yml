@@ -1,21 +1,31 @@
 ---
-name: "My OER Course"
+creativeWorkStatus: Draft  # Incomplete, Draft, Published
+name: infOERmiert - Der OER-Blog vom Netzwerk Lanedsportal ORCA.nrw
+description: >
+  Im Blog "infOERmiert" postet das Redaktionsteam des Netzwerks Landesportal
+  ORCA.nrw seit 2022 kurze informative Beiträge rund um Open Educational
+  Resources für die Zielgruppe Lehrende an Hochschulen und Universitäten.
+  Ursprünglich veröffentlicht in der zugangsbeschränkten Community of Practice
+  auf ORCA.nrw sind die hier auf Github frei zugänglich und nachnutzbar. Unser
+  Blog ist verfügbar als Webseite, Ebook, PDF und HTML.
+license:
+  id: https://creativecommons.org/licenses/by/4.0/deed.de
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
-publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  - name: Netzwerk Landesportal ORCA.nrw
+    type: Organization
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
-version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  - OER
+  - ORCA.nrw
+  - Materialtipp
+  - Praxiswerkstatt
+  - Creative Commons
+  - CC-Lizenz
+  - Lizenzhinweis
+inLanguage:
+  - de
+learningResourceType:
+  - https://w3id.org/kim/hcrt/text
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
 thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+version: 1.0
