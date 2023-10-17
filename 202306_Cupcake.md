@@ -16,6 +16,6 @@ Die Einzelbestandteile des Cupcakes (rote Kugeln, Orange Creme etc.)  haben tlw.
 
 ## Tags
 CC-Lizenz, Remixen, Verschmelzen
+
 ## Lizenznachweis
 Frank Homp für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 30.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-
