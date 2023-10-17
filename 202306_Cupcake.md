@@ -14,7 +14,7 @@ Und hier kommt die Cupcake-Regel ins Spiel. Das Bild des Cupcakes  wurde gewähl
  
 Die Einzelbestandteile des Cupcakes (rote Kugeln, Orange Creme etc.)  haben tlw. unterschiedliche Lizenzen. Die restriktivste Lizenz ist die  CC BY-SA 4.0-Lizenz (Orange Creme). Somit muss das Gesamtwerk, der  Cupcake, mindestens die Lizenz CC BY-SA 4.0 erhalten.
  
-In diesem Sinne: **Viel Spaß beim Re-mixen eurer OER und Guten Appetit! 🧁**
+In diesem Sinne: **Viel Spaß beim Re-mixen eurer OER und Guten Appetit! **
 
 ## Tags
 CC-Lizenz, Remixen, Verschmelzen
