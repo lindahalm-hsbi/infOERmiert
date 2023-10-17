@@ -14,7 +14,9 @@ Wir freuen uns, Sie begrüßen zu dürfen!
 
 ## Bildnachweise
 Eigene Grafik
+
 ## Tags
 OER, Medien, Veranstaltungstipps
+
 ## Lizenznachweis
 Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 07.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
