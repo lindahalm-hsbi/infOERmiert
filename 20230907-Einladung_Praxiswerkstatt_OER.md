@@ -10,7 +10,7 @@ Zielgruppe sind alle Lehrenden an Hochschulen in NRW, die ihre Lehre  digital we
 
 Wir freuen uns, Sie begrüßen zu dürfen!
 
-▶️ [Programm der Praxiswerkstatt mit Anmeldelinks](https://www.orca.nrw/praxiswerkstatt-oer)
+[Programm der Praxiswerkstatt mit Anmeldelinks](https://www.orca.nrw/praxiswerkstatt-oer)
 
 ## Bildnachweise
 Eigene Grafik
