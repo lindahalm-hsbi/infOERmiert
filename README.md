@@ -3,7 +3,7 @@ Im Blog "infOERmiert" postet das Redaktionsteam des Netzwerks Landesportal ORCA.
 Unser Blog ist verfügbar als
 
 Webseite:
-* [landing page](https://lindahalm-hsbi.github.io/infOERmiert/)
+* [Landing page](https://lindahalm-hsbi.github.io/infOERmiert/)
 
 Oder direkt als:
 * [Ebook](https://lindahalm-hsbi.github.io/testoer/infOERmiert.epub)
