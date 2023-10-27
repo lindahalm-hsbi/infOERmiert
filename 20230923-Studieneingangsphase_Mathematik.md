@@ -7,6 +7,7 @@ Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.
 ![school-calculator_1](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062)
 
 - **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)** | Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
+- **[studiVEMINT](https://www.orca.nrw/kurse/studivemint)** | Mathematikkurs in 13 Lerneinheiten zur Wiederholung der Schulmathenmatik. Kurze theoretische Einführungen werden ergänzt mit umfangreichen Übungsaufgaben und Erklärvideos.
 - **[Online Mathematik Brückenkurs OMB+](https://www.orca.nrw/kurse/ombplus)**
  | Ausführliche Erläuterungen zu 11 Themen und in mehreren Sprachen 
 verfügbar. Am Anfang des Kurses steht ein Eingangstest, der weiter führt
