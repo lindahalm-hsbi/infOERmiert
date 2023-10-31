@@ -50,11 +50,28 @@ Aber da das Bild auf dem Communityserver bei humhub liegt und nicht öffentlich 
 
 #2# Datei ins Github bringen
 - https://github.com/lindahalm-hsbi/infOERmiert/tree/main öffnen
-- Add file > Upload File: .md. Datei von festplatte auswählen und hochladen
+- Add file > Upload File: .md. Datei von Festplatte auswählen (choose) und hochladen.
+- Auf COMMIT klicken (grüner Button)
+- ca. 2 Minuten warten: Im Hintergrund wird die neue -md-Datei verarbeitet. Unter ACTIONS könnt ihr nachschauen, ob alles reibungslos klappt. Beim ersten mal wird das schief gehen (Rotes X), weil ein Link zu einer Bilddateidrin steht, den es nicht gibt (nämlich den humhub-Link).
 
+#3# Datei finalisieren (Bilder einbetten)
+- Code-Übersicht: die letzte Datei anklicken
+- mit dem Bleistift in den Editiermodus gehen
+- von Preview in Code wechseln
+- Cursor dahin setzen, woe das Bild hinsoll
+- ganz unten unter dem Editorbereich gibt eine graue Leiste: "Attach files by ...... " - da drauf klicken.
+- Bilddatei von Festplatte auswhählen (dafür aus dem COP-Artikel das Bild anklicken und dann in der Großansicht mit Rechtsklick auf die eigene Festplatte speichern) und das hochladen aktivieren.
+- Preview aufrufen: ist es an der richtigen Stelle? Wenn nicht dann zurück in Editiermods und die Zeile verschieben.
+- die alte Zeile mit dem Link auf humhub löschen.
+- in der Preview nochmal prüfen ob alles richtig ist
+- Emojies oder blaue Pfeilchen oder Trennlinien aus humhub müssen entfernt sein!
+- auf grünen Button COMMIT CHANGES klicken und bestägigen.
 
+#4# Landing page prüfen
+Nach ein paar Minuten ist die ACTION psoitiv durchgelaufen (grüner Haken dran) und die Landing Page ist erstelt worden. Auf der Code-Übersichtsseite könnt ihr im Teil README auf "LANDNING PAGE" klciek und das Ergebniss überprüfen.
+Ist die Action nicht grün, sondern rot, dann hat die -md-Datei noch Fehler und ihr müsst auf die Suche gehen.
 
-#3# Warum möchte ich meine Materialien in Github produzieren und nicht in PowerPoint oder Word?
+#5# Warum möchte ich meine Materialien in Github produzieren und nicht in PowerPoint oder Word?
 * Ich kann mit mehreren Personen gleichzeitg auf Github schreiben und mir die Arbeit teilen. 
 * Wenn ich mit dem OER-template der TIB Hannover arbeite, ist das Erstellen vom OER ganz einfach. Also perfekt für den Start in die Github-Welt. 
 * Github kann aus meinen Texten Webseiten und Texte produzieren. Und die Webseiten werden dann auf Github gehostet. Ich brauche also kein eigenes Wordpress und keinen Webserver.Das Output ist eine PDF-Datei oder eine Webseite oder beides. Schreiben muss ich aber nur reinen Text und ums Layout kümmere ich mich nicht mehr. 
