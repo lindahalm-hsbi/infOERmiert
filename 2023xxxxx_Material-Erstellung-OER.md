@@ -3,8 +3,8 @@
 Wenn Lehrende selbst OER erstellen, ist eine Herausforderung das  Urheberrecht: Welche Materialien darf ich verwenden, ohne die Rechte  Dritter zu verletzen?
  
 Folgende Infografik gibt hierzu einen ersten Überblick. Weitere Erläuterungen und Links dazu finden Sie unten.
- 
-![](https://community.orca.nrw/file/file/download?guid=c8775a2f-f818-47b1-8d57-f415e49f7a21 "Was darf ich fuer OER verwenden klein.png")
+
+![Was-darf-ich-fuer-OER-verwenden-klein](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/15395879-5c22-416c-8e2f-da75a3a99840)
  
 ### Anmerkungen
  
