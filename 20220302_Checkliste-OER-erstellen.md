@@ -1,12 +1,11 @@
 # Leitfaden für Lehrende: Checkliste OER erstellen
  
-![Deckblatt-ChecklisteOERerstellenv1.1.png](https://community.orca.nrw/file/file/download?guid=c5119e3e-4c37-469b-9b0c-f1bbdd52dc3e "Deckblatt-ChecklisteOERerstellenv1.1.png")
+![screenshot-Deckblatt-ChecklisteOERerstellen](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/faf10b2f-ef85-4fec-8779-ae043f9fe18b)
 
 Sie  wollen offenes Bildungsmaterial selbst erstellen? Sie fragen sich, ob  Sie an alles gedacht haben? In diesem Leitfaden für Lehrende fassen Linda Halm und Alexander Kobusch von der Hochschule Bielefeld das Wichtigste für  Sie zusammen. Checklisten und Infoboxen erklären, welche rechtlichen  Maßgaben aus dem Urheber- und Persönlichkeitsrecht eingehalten werden  müssen und gehen auf formale, didaktische und technische Qualitätsmerkmale bei der Erstellung von OER-Materialien ein.
  
 [Download "Checkliste OER erstellen"](https://www.hsbi.de/learningservices/lehrende/oer/oer-erstellen "Downloadlink &quot;Checkliste OER erstellen&quot;")
 
-Hier geht es direkt zum <a href="https://lizenzhinweisgenerator.de/" target="_blank">irgendwas</a>
 
 ## Bildnachweise
 Eigener Screenshot Deckblatt
