@@ -16,6 +16,4 @@ Folgende Infografik gibt hierzu einen ersten Überblick. Weitere Erläuterungen 
  
 **Gemeinfreies:** Neben Werken mit abgelaufener  Schutzfrist und amtlichen Werken gibt es noch weitere Werke ohne  urheberrechtlichen Schutz. Hierzu gehören z.B. “Werke der Allgemeinheit”  wie Volksmärchen und Volkslieder. Zudem ist es wichtig, dass Sie die  sogenannten “Leistungsschutzrechte“ beachten. Diese schützen die  Leistung von Künstler\*innen, die ein Werk interpretieren. So ist das  Urheberrecht für “Die Zauberflöte“ von Mozart zwar bereits abgelaufen,  eine aktuelle Orchester-Aufnahme der Oper jedoch geschützt. Im Detail  können Sie sich zu diesen zusätzlichen Aspekten in einem [Artikel zu Gemeinfreiheit im Online-Journal irights.info](https://irights.info/artikel/gemeinfreiheit-wie-frei-ist-frei/29619) informieren.
  
-* * *
- 
 *Lizenzangabe zur Abbildung:* ["Was darf ich für OER verwenden?"](https://flic.kr/p/2owhj2C), Elisabeth Scherer für SeLL / HHU Düsseldorf, ist lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
