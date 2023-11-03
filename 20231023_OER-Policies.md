@@ -1,9 +1,9 @@
 # Offene Bildung durch OER-Policies – wie auch Sie die Welt ein bisschen besser machen können
  
-![](https://community.orca.nrw/file/file/download?guid=03d1d85b-16d7-48f8-bc95-e132b551a1f7 "53272125479_2fe45d7cc8_c.jpg")
-
 Arbeiten Sie an einer offenen Hochschule? Tragen Sie zu offener Bildung bei? Mit der [Agenda 2030 haben sich die Vereinten Nationen ein ambitioniertes Ziel für die nachhaltige Entwicklung gesetzt](https://sdgs.un.org/2030agenda). Hochwertige Bildung stellt als [Ziel 4 der Sustainable Development Goals (SDG 4)](https://sdgs.un.org/goals/goal4)  einen zentralen Baustein der Strategie dar. Durch die Betonung der  Inklusion, Gleichberechtigung und Offenheit soll allen Menschen Zugang  zu Bildung gewährleistet und lebenslanges Lernen ermöglicht werden.
- 
+
+![53272125479_2fe45d7cc8_c](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/75cde6bc-ab51-445a-95ab-87d5fbaa50f7)
+
 [Offene Bildungsmaterialien (Open Educational Resources, OER)](https://open-educational-resources.de/)  sind ein strategisches Instrument, um dieses Ziel erreichen zu können:  Lehr-/Lernmaterialien sollen nicht auf die Nutzung in formalen  Bildungsinstitutionen beschränkt bleiben und nicht hinter  Bezahlschranken verschwinden. OER-Policies auf der politischen Ebene  oder auf der Ebene von Bildungseinrichtungen schaffen hierbei eine  Selbstverpflichtung, das eigene Handeln auf Offenheit und den freien  Zugang zu Bildung auszurichten und so eine schrittweise Umsetzung des  SDG 4 zu ermöglichen.
  
 **Erfolgsfaktoren für OER**
