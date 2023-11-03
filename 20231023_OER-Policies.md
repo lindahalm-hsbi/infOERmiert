@@ -33,11 +33,11 @@ Wenn Sie nun Ihre Antworten auf die Eingangsfragen wiederaufgreifen:  hat Ihre H
  
 ## Nützliche Informationen
  
-UNESCO / Commonwealth of Learning 2019: "Guidelines on the development of open educational resources policies". Online unter: https://unesdoc.unesco.org/ark:/48223/pf0000371129 (abgerufen 10.10.2023).
+UNESCO / Commonwealth of Learning 2019: "Guidelines on the development of open educational resources policies". Online unter: [https://unesdoc.unesco.org/ark:/48223/pf0000371129](https://unesdoc.unesco.org/ark:/48223/pf0000371129) (abgerufen 10.10.2023).
  
-[twillo.de](http://twillo.de/): "OER-Policy". Umfangreiches Informationen des niedersächsischen Landesportals inklusive einer OER-Musterpolicy. Online unter: https://www.twillo.de/oer/web/oer-policy/ (abgerufen 10.10.2023)
+[twillo.de](http://twillo.de/): "OER-Policy". Umfangreiches Informationen des niedersächsischen Landesportals inklusive einer OER-Musterpolicy. Online unter: [https://www.twillo.de/oer/web/oer-policy/](https://www.twillo.de/oer/web/oer-policy/) (abgerufen 10.10.2023)
  
-Coolidge, Amanda / DaMarte, Daniel 2016: "OER Policy Development Tool". Online unter: https://policy.lumenlearning.com/ (abgerufen 10.10.2023).
+Coolidge, Amanda / DaMarte, Daniel 2016: "OER Policy Development Tool". Online unter: [https://policy.lumenlearning.com/](https://policy.lumenlearning.com/) (abgerufen 10.10.2023).
 
 ## Bildnachweise
 [“Thoughts on OER Policies”](https://flic.kr/p/2patyW4), [Frank Homp](https://www.flickr.com/photos/194963989@N07/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode.en)
