@@ -1,5 +1,6 @@
 Alle Sonderzeichen (wie z.B. das kleine blaue Dreicksymbol vor unseren Links) oder Emojies löschen. 
-Auch die hellgrauen Trennlinien, die man auf humhub nutzen kann, müssen gelöscht werden. Die kann Markdown nicht interpretieren.
+
+Auch die hellgrauen Trennlinien, die man auf humhub nutzen kann, müssen gelöscht werden. Die kann Markdown nicht interpretieren. Im Markdown Monster werden die als * * * interpretiert - damit läuft das dann auf einen Fehler. Einfach die 3 *** löschen.
 
 Dateinamen habe keine Umlaute oder Leerstellen. Und vorneweg das Datum YYYMMDD.
 
