@@ -1,4 +1,5 @@
-# **EILD.nrw: E**ntwicklung von **I**nhalten für die **L**ehre im Fach **D**atenbanken
+# EILD.nrw: Entwicklung von Inhalten für die Lehre im Fach Datenbanken
+**EILD.nrw: E**ntwicklung von **I**nhalten für die **L**ehre im Fach **D**atenbanken
  
 Im OERContent.nrw-Projekt [EILD](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)  wurden offene Bildungsmaterialien für das Fach „Datenbanken“  entwickelt. Beteiligt waren die FH Dortmund, HS Bonn-Rhein-Sieg, HS  Düsseldorf und TH Köln. Dabei ist eine beeindruckende Sammlung an  Lehr-/Lernmaterial zusammengekommen. Insgesamt wurden über 100  Lehrvideos, 10 interaktive Präsentationen, 12 interaktive  Trainingstools, 7 programmierbare Tools und ganze 5 LMS-Kurse an  ORCA.nrw übergeben.
 
