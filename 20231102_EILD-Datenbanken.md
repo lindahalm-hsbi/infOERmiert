@@ -1,12 +1,14 @@
 # **EILD.nrw: E**ntwicklung von **I**nhalten für die **L**ehre im Fach **D**atenbanken
  
-![](https://community.orca.nrw/file/file/download?guid=cd7586e7-cadb-4e57-b838-660e675bd999 "Das Projekt-Logo: Die Verbindung der Datenbank-„Tonne“ mit der Tafel​​ © Björn Salgert, Thomas C. Rakow, FBM, HSD 2020")
- 
 Im OERContent.nrw-Projekt [EILD](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)  wurden offene Bildungsmaterialien für das Fach „Datenbanken“  entwickelt. Beteiligt waren die FH Dortmund, HS Bonn-Rhein-Sieg, HS  Düsseldorf und TH Köln. Dabei ist eine beeindruckende Sammlung an  Lehr-/Lernmaterial zusammengekommen. Insgesamt wurden über 100  Lehrvideos, 10 interaktive Präsentationen, 12 interaktive  Trainingstools, 7 programmierbare Tools und ganze 5 LMS-Kurse an  ORCA.nrw übergeben.
- 
+
+![EILD-Projekt-Logo_mitLabel](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d5ce6216-87fc-4a48-ba07-653c0035f99d)
+
 Sortiert sind die Materialien nach den Lernmodulen des  Datenbank-Entwicklungszyklus von 1. „Konzepte von Datenbanksystemen“ bis  9. „Datenanalyse“.
- 
-![](https://community.orca.nrw/file/file/download?guid=cb301395-ecd6-4601-b91d-c912f06819da "•	Thomas C. Rakow: Die Entwicklung von Lehrinhalten im Fach Datenbanken. In: Wojciechowski, M. (Hrsg.): Forschungsreport 2022, Hochschule Düsseldorf, Düsseldorf 2023, S. 112-113.")Sie  decken die Themen von Grundvorlesungen im Fach „Datenbanken“ ab.  Teilweise gibt es darüber hinaus weiterführende Lehrmaterialien, die  sich am Master-Niveau orientieren. Studierende und Lehrende können so  leicht passende Materialien zum jeweiligen Thema/Wissensstand finden.
+
+![Entwicklungszyklus](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/ba0667da-0249-4bac-9c50-9a8da5528e83)
+
+Sie  decken die Themen von Grundvorlesungen im Fach „Datenbanken“ ab.  Teilweise gibt es darüber hinaus weiterführende Lehrmaterialien, die  sich am Master-Niveau orientieren. Studierende und Lehrende können so  leicht passende Materialien zum jeweiligen Thema/Wissensstand finden.
  
 Die Lehreinheiten und -materialien werden in den Partnerhochschulen  bei jährlich ca. 1.000 Studierenden eingesetzt. Um die Qualität der  Materialien zu sichern, wurden u. a. Befragungen und  Evaluationsverfahren unter Lehrenden und Studierenden dieses Faches  durchgeführt.  Das gewonnene Feedback wurde bei der Entwicklung der OER  einbezogen.
  
