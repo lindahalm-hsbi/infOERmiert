@@ -10,7 +10,8 @@ description: >
   Blog ist verfügbar als Webseite, Ebook, PDF und HTML und wird fortlaufend erweitert.
 license:
   id: https://creativecommons.org/licenses/by/4.0/deed.de
-image: https://github.com/lindahalm-hsbi/infOERmiert/blob/main/blog-cc0-oer.png
+image: >-
+   https://raw.githubusercontent.com/lindahalm-hsbi/infOERmiert/main/blog-cc0-oer.png
 creator:
   - name: Netzwerk Landesportal ORCA.nrw
     type: Organization
