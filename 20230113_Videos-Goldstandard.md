@@ -26,7 +26,7 @@
 - Schnittlisten
 - Storyboard
 
-Hinweis: Bei Videos handelt es sich immer um eine **Verschmelzung von Einzelmaterialien**  wie Musik, Bild und Audio. D.h. die Gesamtlizenz des Videos darf  insgesamt nicht mehr erlauben als die Lizenz der darin genutzten  Einzelmaterialien. Das verdeutlicht auch noch einmal unser Blogbeitrag zur OER-Cupcake-Regel.
+Hinweis: Bei Videos handelt es sich immer um eine **Verschmelzung von Einzelmaterialien**  wie Musik, Bild und Audio. D.h. die Gesamtlizenz des Videos darf  insgesamt nicht mehr erlauben als die Lizenz der darin genutzten  Einzelmaterialien. Das verdeutlicht auch noch einmal unser [Blogbeitrag zur OER-Cupcake-Regel](https://lindahalm-hsbi.github.io/infOERmiert/document.html#cupcake.md__die-oer-cupcake-regel).
 
 ## Weiterlesen
 * Den Artikel zum OER-Goldstandard von Blanche Fabri können Sie [hier](https://open-educational-resources.de/goldstandard-video/) einsehen. 
