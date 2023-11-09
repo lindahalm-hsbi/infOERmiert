@@ -31,14 +31,14 @@ können.
  
 **Tipp:**  Wenn Sie selbst Materialien nachhaltig offen und frei zur vielfältigen  Nachnutzung lizenzieren möchten, wählen Sie am besten eine der drei **offenen CC-Lizenzen**: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), [CC BY](https://creativecommons.org/licenses/by/4.0/deed.de) oder [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
-    ## Weiterlesen
+## Weiterlesen
     Diese und weitere Informationen zur Lizenzbedingung „ND“ finden Sie z.B. bei [irights.info](https://irights.info/artikel/was-eine-bearbeitung-ist-und-in-welchen-faellen-es-ohne-zustimmung-der-urheberinnen-geht/31216) sowie bei der [Bundeszentrale für politische Bildung](https://www.bpb.de/lernen/digitale-bildung/oer-material-fuer-alle/220554/zusaetzliche-lizenzspezifische-einschraenkungen-und-verpflichtungen-die-lizenz-module/).
     Vertiefendes zum Thema „Bearbeitungen“ gibt es auch im [Praxisleitfaden zu Creative Commons-Lizenzen](https://irights.info/artikel/neue-version-open-content-ein-praxisleitfaden-zu-creative-commons-lizenzen/26086).
 
-    ## Bildnachweise
+ ## Bildnachweise
     Das [ND-Icon](https://creativecommons.org/policies) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/).
 
-    ## Tags
+ ## Tags
     Creative-Commons-Lizenzen, OER
 
     ## Lizenznachweis
