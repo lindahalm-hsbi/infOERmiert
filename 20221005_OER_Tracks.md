@@ -4,7 +4,7 @@ Gute freie Musik für Lehrvideos oder Podcasts ist rar – da kommt das neue OER
 
 Alle Tracks stehen unter der Lizenz CC BY 4.0 – das bedeutet, Sie dürfen die Musik nicht nur frei nutzen, sondern auch verändern – kürzen, mixen und adaptieren. Viel Spaß beim Anhören und Nutzen! 
 
-![OER_Tracks_Jamal](https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/801af9f2-5089-44f6-9ff7-25cb3947a896)
+![Aus Papier ausgeschnittene Illustrationen auf einer gelben Fläche: Ein Laptop, darauf eine Lehrperson und daneben ein Reagenzglas; Musik-Noten, tanzende Figuren, eine Figur mit Kopfhörer und das Logo von ORCA.nrw](https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/801af9f2-5089-44f6-9ff7-25cb3947a896 "OER Tracks image")
 
 
 ## Weiterlesen bzw. -hören
