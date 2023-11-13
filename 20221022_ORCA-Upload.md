@@ -1,7 +1,9 @@
 # ORCA.nrw lädt ein: Laden Sie Ihr offenes Lehrmaterial hoch!
 
 Haben  Sie Lehrmaterial erstellt, an dem auch andere Lehrende Interesse haben  könnten oder mit dem Studierende selbstständig lernen können? Dann  tragen Sie zu einem Pool an offenen Bildungsressourcen bei und laden Sie  es auf [ORCA.nrw](https://www.orca.nrw/content-upload "Content-Upload auf ORCA.nrw") hoch! Eine einzelne Grafik kann genauso Eingang finden wie ein Lehrvideo oder ein kompletter Online-Kurs von Ihnen.
- 
+
+![ORCA_Postkarte_WEB_geschlossen_DINA6_1_Seite_1](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/45767430-f2ef-4105-bb8c-71e020b01207)
+
 Vor dem Upload können Sie die Netzwerkstelle ORCA.nrw an Ihrer  Hochschule kontaktieren: sie prüft mit Ihnen zusammen ihr hochzuladendes  Material auf OER-Fähigkeit und beantwortet Ihre verbleibenden Fragen,  z. B. zum Urheberrecht. Sie erklärt, welche Creative Commons-Lizenz für  Sie passend ist, wie Sie ihr Material für den Upload technisch und  inhaltlich vorbereiten können und welche Informationen Sie beim Upload  bereit halten sollten.
 
 ## Weiterlesen
