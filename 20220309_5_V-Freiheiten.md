@@ -16,7 +16,7 @@ Diese Freiheiten gibt es (nur) mit offenen Lizenzen. Damit hat man  mit OER rech
  
 Eine gute und kurze Erläuterung zu diesen 5V-Freiheiten finden Sie z.B. in einem [Video der Informationsstelle OER](https://www.youtube.com/watch?v=ai2lZ8e4W8Y) (OERinfo).
 
-## Information zum Artikel
+## Information zum Beitrag
 
 *Bildnachweis:* Die Graphik in diesem Beitrag ist lizenziert unter [CC 0](https://creativecommons.org/publicdomain/zero/1.0/legalcode); Quelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Open_access_in_Brandenburg)
 
