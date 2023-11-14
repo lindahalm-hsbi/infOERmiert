@@ -1,5 +1,4 @@
-# **Fünf Freiheiten zur Offenheit** **- OER eröffnen unendliche Möglichkeiten in der digitalen Lehre**
-![Offenheit](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386)
+# Fünf Freiheiten zur Offenheit - OER eröffnen unendliche Möglichkeiten in der digitalen Lehre
 
 Freie  Bildungsmaterialien (Open Educational Resources, OER) haben keinen  Mehrwert gegenüber ‚traditionellen‘, nicht offen lizenzierten Inhalten?  Weit gefehlt!
  
@@ -10,6 +9,8 @@ Der Bestandteil „Open“ in „Open Educational Resources” verweist auf **f�
 - Verarbeiten
 - Vermischen
 - Verbreiten
+
+![Offenheit](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386)
 
 Diese Freiheiten gibt es (nur) mit offenen Lizenzen. Damit hat man  mit OER rechtlich gesehen viel mehr Freiheiten bei der Nachnutzung als  mit Materialien, die unter keiner offenen Lizenz stehen. Insbesondere  sind Anpassungen an individuelle Lehr-/Lernbedürfnisse erlaubt.
  
