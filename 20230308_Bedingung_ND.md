@@ -35,11 +35,9 @@ können.
 - Diese und weitere Informationen zur Lizenzbedingung „ND“ finden Sie z.B. bei [irights.info](https://irights.info/artikel/was-eine-bearbeitung-ist-und-in-welchen-faellen-es-ohne-zustimmung-der-urheberinnen-geht/31216) sowie bei der [Bundeszentrale für politische Bildung](https://www.bpb.de/lernen/digitale-bildung/oer-material-fuer-alle/220554/zusaetzliche-lizenzspezifische-einschraenkungen-und-verpflichtungen-die-lizenz-module/).
 - Vertiefendes zum Thema „Bearbeitungen“ gibt es auch im [Praxisleitfaden zu Creative Commons-Lizenzen](https://irights.info/artikel/neue-version-open-content-ein-praxisleitfaden-zu-creative-commons-lizenzen/26086).
 
-## Bildnachweise
-Das [ND-Icon](https://creativecommons.org/policies) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/). 
+## Information zum Beitrag
+*Bildnachweis*:Das [ND-Icon](https://creativecommons.org/policies) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/). 
 
-## Tags
-Creative-Commons-Lizenzen, OER
+*Tags*: Creative-Commons-Lizenzen, OER
 
-## Lizenznachweis
-Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 08.03.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Lizenznachweis*: Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 08.03.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
