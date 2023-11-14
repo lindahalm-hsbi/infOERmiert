@@ -7,7 +7,7 @@ Sie  wollen offenes Bildungsmaterial selbst erstellen? Sie fragen sich, ob  Sie 
 [Download "Checkliste OER erstellen"](https://www.hsbi.de/learningservices/lehrende/oer/oer-erstellen "Downloadlink &quot;Checkliste OER erstellen&quot;")
 
 
-## Information zum Artikel
+## Information zum Beitrag
 
 *Bildnachweise*: Eigener Screenshot Deckblatt
 
