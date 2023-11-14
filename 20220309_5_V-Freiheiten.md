@@ -17,11 +17,10 @@ Diese Freiheiten gibt es (nur) mit offenen Lizenzen. Damit hat man  mit OER rech
 Eine gute und kurze Erläuterung zu diesen 5V-Freiheiten finden Sie z.B. in einem [Video der Informationsstelle OER](https://www.youtube.com/watch?v=ai2lZ8e4W8Y) (OERinfo).
  
 
- ## Bildnachweise
-   Die Graphik in diesem Beitrag ist lizenziert unter [CC 0](https://creativecommons.org/publicdomain/zero/1.0/legalcode); Quelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Open_access_in_Brandenburg)
+ ## Information zum Artikel
+ 
+*Bildnachweis:* Die Graphik in diesem Beitrag ist lizenziert unter [CC 0](https://creativecommons.org/publicdomain/zero/1.0/legalcode); Quelle: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Open_access_in_Brandenburg)
 
- ## Tags
- OER
+ *Tags*: OER
 
- ## Lizenznachweis
- Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 09.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+ *Lizenznachweis*: Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 09.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
