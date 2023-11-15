@@ -15,14 +15,10 @@
 
 * Tipp: Wo Sie CC0 1.0-lizenzierte Fotos finden können, erfahren Sie im Beitrag von [Henrike Heckmann in der Community of Practice](https://community.orca.nrw/content/perma?id=92804). 
 
-* * *
+## Information zum Beitrag
 
-### Bildnachweise
- “[Der Gold-Standard für Fotos als OER](https://open-educational-resources.de/goldstandard-foto/)”, Jula Henke, Agentur J&K – Jöran und Konsorten für OERinfo, Informationsstelle OER, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+*Bildnachweis:*  “[Der Gold-Standard für Fotos als OER](https://open-educational-resources.de/goldstandard-foto/)”, Jula Henke, Agentur J&K – Jöran und Konsorten für OERinfo, Informationsstelle OER, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-### Tags
-CC-Lizenzen, Creative Commons, Fotos, OER, Goldstandard
+*Tags*: CC-Lizenzen, Creative Commons, Fotos, OER, Goldstandard
 
-### Lizenznachweis
-Laura Schaffeld für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 20.04.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-
+*Lizenzhinweis*: Laura Schaffeld für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 20.04.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
