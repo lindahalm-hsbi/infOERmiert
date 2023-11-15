@@ -22,4 +22,4 @@ Eine gute und kurze Erläuterung zu diesen 5V-Freiheiten finden Sie z.B. in eine
 
  *Tags*: OER
 
- *Lizenznachweis*: Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 09.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+ *Lizenzhinweis*: Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 09.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
