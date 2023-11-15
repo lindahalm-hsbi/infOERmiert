@@ -4,7 +4,7 @@
 
 Am 25.10.2022 war für den ersten Teil der Workshop-Reihe [“Praxiswerkstatt OER: Medienproduktion für die Lehre“](https://www.orca.nrw/blog/praxiswerkstatt-oer) Prof. Dr. Andreas Schümchen beim Netzwerk Landesportal ORCA.nrw zu Gast. Der Professor für Journalistik an der Hochschule Bonn-Rhein-Sieg gab den über 40 Teilnehmenden eine **Einführung in das Thema Podcast-Produktion**.
 
-![Workshopreihe_Medienproduktion_Twitter (3)](https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/f4a94e74-d7c3-4411-85ad-3553a03706ef)
+![Werbekachel mit der Beschriftung: "Workshopreihe. Angebot des Netzwerks Landesportal ORCA.nrw – Praxiswerkstatt OER: Medienproduktion für die Lehre". Daneben ist eine Hand abgebildet, über der Symbole schweben, die für H5P, Videos und Podcasts stehen.](https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/f4a94e74-d7c3-4411-85ad-3553a03706ef)
 
 Dabei hatte er viele praktische Tipps im Gepäck. So empfiehlt er zum Beispiel, Interviewpartner\*innen vor der Aufnahme ausführlich zu informieren und sie über die Rolle aufzuklären, die sie im Podcast einnehmen sollen (z.B. Expert\*in, Betroffene\*r). Vorab alle Fragen zu Verfügung zu stellen – davon rät Andreas Schümchen allerdings ab, weil es dem Podcast die Dynamik nimmt. Sehr wichtig sei auch das Storytelling: Ein Podcast, der wie eine Vorlesung in erster Linie aus der Sicht eines Experten ein Thema abhandelt, wird voraussichtlich nicht erfolgreich sein. “Menschen interessieren sich für Menschen“, erklärt der Experte. Entsprechend sollte auch ein Podcast von Menschen erzählen, um Gehör zu finden.
 
