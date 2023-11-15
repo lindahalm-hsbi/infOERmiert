@@ -17,10 +17,11 @@ Für die Bewertung, ob eine kommerzielle Nutzung vorliegt oder nicht,  ist z.B. 
  
 **Tipp:** Wenn Sie eine kommerzielle (Nach-)Nutzung Ihrer Materialien unattraktiv machen möchten, können Sie die **Bedingung „SA“**  (Share Alike, dt. Weitergabe unter gleichen Bedingungen) wählen. Die  Bedingung „SA“ bedeutet, dass die so lizenzierten Materialien o. darauf  aufbauende Materialien nur unter freier Lizenz verbreitet werden dürfen.  Sie dürften also nicht durch Andere ‚monopolisiert‘ werden.
 
-### Weiterlesen
+## Weiterlesen
 Diese und vertiefende Informationen zur Lizenzbedingung „NC“ finden Sie z.B. in der [OER FAQ](https://oer-faq.de/faq/CC-3-5-1), in einem [Beitrag von Henry Steinhau und David Pachali auf iRightsInfo](https://irights.info/artikel/oer-creative-commons-noncommercial/28879) oder in der [„Entscheidungshilfe Creative Commons-Module Lieber nicht NC …“](https://storage.sbg.cloud.ovh.net/v1/AUTH_e8fb231d58fc40ed9af2a222b6ee4c49/KONTENA-PRODUCTION-HOOU/2c3b5531-7269-4c46-85df-33867e4e1099/original.pdf) von Andrea Schlotfeldt, HOOU | HAW Hamburg.
  
-### Information zum Beitrag
+## Information zum Beitrag
+
 *Bildnachweis*: Das [NC-Icon](https://creativecommons.org/licenses/by-nc/4.0/) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/).
  
 *Tags*: OER, Lizenzen
