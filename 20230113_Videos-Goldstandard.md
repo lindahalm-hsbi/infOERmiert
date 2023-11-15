@@ -33,11 +33,10 @@ Hinweis: Bei Videos handelt es sich immer um eine **Verschmelzung von Einzelmate
  
 * Ein gutes Beispiel, wie ein Video bei Download mit Metadaten & Einzelmaterial zur Verfügung gestellt wird, finden Sie [hier](https://www.twillo.de/edu-sharing/components/render/f9a19cc2-c2d6-4dac-982f-9cf4be62c5e5). 
 
-## Bildnachweise
-Bildnachweis: “[Der Gold-Standard für Video als OER](https://open-educational-resources.de/goldstandard-video/)”, Jula Henke, Agentur J&K – Jöran und Konsorten für OERinfo, Informationsstelle OER, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+## Information zum Beitrag
 
-## Tags
-Video, Goldstandard
+*Bildnachweis:* Bildnachweis: “[Der Gold-Standard für Video als OER](https://open-educational-resources.de/goldstandard-video/)”, Jula Henke, Agentur J&K – Jöran und Konsorten für OERinfo, Informationsstelle OER, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-## Lizenznachweis
-Bianca Geurden für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 13.01.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Tags*: Video, Goldstandard
+
+*Lizenzhinweis*: Bianca Geurden für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 13.01.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
