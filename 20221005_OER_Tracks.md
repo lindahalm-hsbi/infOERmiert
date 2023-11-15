@@ -16,14 +16,12 @@ In dem kurzen Erklärvideo [„OER Tracks and the ORCA.nrw Network: Promoting O
 Zudem gibt es Artikel über das Projekt auf der [Webseite von OER Info](https://open-educational-resources.de/die-oer-tracks/) und der [Seite des Hochschulforums Digitalisierung](https://hochschulforumdigitalisierung.de/blog/oer-tracks-bedarfsgerechte-musik-fuer-die-digitale-lehre-durch-diy/).
 
 
-## Bildnachweis
+## Information zum Beitrag
 
-Foto „OER Tracks Schnipsel“ von Elisabeth Scherer, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Bildnachweis:* Foto „OER Tracks Schnipsel“ von Elisabeth Scherer, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
-## Tags
+ *Tags*: OER, Musik
 
-OER, Musik
+ *Lizenzhinweis*: Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 10.5.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
-## Lizenznachweis
 
-Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 10.5.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
