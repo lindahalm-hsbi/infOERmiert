@@ -13,4 +13,4 @@ Sie  wollen offenes Bildungsmaterial selbst erstellen? Sie fragen sich, ob  Sie 
 
 *Tags*: OER, Materialtipp, Checkliste
 
-*Lizenznachweis*: Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Lizenzhinweis*: Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
