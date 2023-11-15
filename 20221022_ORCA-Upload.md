@@ -9,11 +9,10 @@ Vor dem Upload können Sie die Netzwerkstelle ORCA.nrw an Ihrer  Hochschule kont
 ## Weiterlesen
 Wie genau der Upload- und Freischaltungsprozess von OER im Landesportal  funktioniert, beantwortet das Content-Management-Team vom Landesportal  ORCA.nrw in diesem [Blogbeitrag](https://www.orca.nrw/blog/der-weg-des-contents-in-das-landesportal "Der Weg des OER-Contents in das Landesportal (Blogbeitrag)").
 
-## Bildnachweise
-Screenshot ORCA-Postkarte; nicht CC-lizenziert
+## Information zum Beitrag
 
-## Tags
-Material, Upload, Content
+*Bildnachweis:* Screenshot ORCA-Postkarte; nicht CC-lizenziert
 
-## Lizenznachweis
-Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.10.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Tags*: Material, Upload, Content
+
+*Lizenzhinweis*: Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.10.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
