@@ -2,7 +2,7 @@
  
 Arbeiten Sie an einer offenen Hochschule? Tragen Sie zu offener Bildung bei? Mit der [Agenda 2030 haben sich die Vereinten Nationen ein ambitioniertes Ziel für die nachhaltige Entwicklung gesetzt](https://sdgs.un.org/2030agenda). Hochwertige Bildung stellt als [Ziel 4 der Sustainable Development Goals (SDG 4)](https://sdgs.un.org/goals/goal4)  einen zentralen Baustein der Strategie dar. Durch die Betonung der  Inklusion, Gleichberechtigung und Offenheit soll allen Menschen Zugang  zu Bildung gewährleistet und lebenslanges Lernen ermöglicht werden.
 
-![53272125479_2fe45d7cc8_c](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/75cde6bc-ab51-445a-95ab-87d5fbaa50f7)
+![Thoughts on OER Policies](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/75cde6bc-ab51-445a-95ab-87d5fbaa50f7 "Thoughts on OER Policies")
 
 [Offene Bildungsmaterialien (Open Educational Resources, OER)](https://open-educational-resources.de/)  sind ein strategisches Instrument, um dieses Ziel erreichen zu können:  Lehr-/Lernmaterialien sollen nicht auf die Nutzung in formalen  Bildungsinstitutionen beschränkt bleiben und nicht hinter  Bezahlschranken verschwinden. OER-Policies auf der politischen Ebene  oder auf der Ebene von Bildungseinrichtungen schaffen hierbei eine  Selbstverpflichtung, das eigene Handeln auf Offenheit und den freien  Zugang zu Bildung auszurichten und so eine schrittweise Umsetzung des  SDG 4 zu ermöglichen.
  
@@ -39,11 +39,10 @@ UNESCO / Commonwealth of Learning 2019: "Guidelines on the development of open e
  
 Coolidge, Amanda / DaMarte, Daniel 2016: "OER Policy Development Tool". Online unter: [https://policy.lumenlearning.com/](https://policy.lumenlearning.com/) (abgerufen 10.10.2023).
 
-## Bildnachweise
-[“Thoughts on OER Policies”](https://flic.kr/p/2patyW4), [Frank Homp](https://www.flickr.com/photos/194963989@N07/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode.en)
+## Information zum Beitrag
 
-## Tags
-OER, OER-Policy
+*Bildnachweis:* [“Thoughts on OER Policies”](https://flic.kr/p/2patyW4), [Frank Homp](https://www.flickr.com/photos/194963989@N07/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/legalcode.en)
 
-## Lizenz
-Alexander Kobusch und Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 23.10.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Tags*: OER, OER-Policy
+
+*Lizenzhinweis*: Alexander Kobusch und Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 23.10.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
