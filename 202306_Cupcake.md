@@ -9,13 +9,14 @@ Ist ja auch logisch. Ist unter den von mir für mein Gesamtwerk  verwendeten Mat
  
 Und hier kommt die Cupcake-Regel ins Spiel. Das Bild des Cupcakes  wurde gewählt, um deutlich zu machen, dass für das Gesamtgebäck bzw.  -werk verschiedene Zutaten (als metaphorisches Pendant zu den  unterschiedlich lizenzierten Materialien) verwendet wurden, die sich  z.B. in Form und Farbe bzw. in ihrer Lizenzierung voneinander  unterscheiden.
 
-[![](https://open-educational-resources.de/wp-content/uploads/OERCupcake-Regel_CC0-Universell.jpg "Die OERCupcake-Regel")](https://open-educational-resources.de/die-oercupcake-regel/)
- (Das Bild ist mit einem Beitrag zur OERCupcake-Regel von OERinfo verlinkt.)
+[![Beitrag zur OERCupcake-Regel von OERinfo](https://open-educational-resources.de/wp-content/uploads/OERCupcake-Regel_CC0-Universell.jpg "Die OERCupcake-Regel")](https://open-educational-resources.de/die-oercupcake-regel/)
+
+Das Bild ist mit einem Beitrag zur OERCupcake-Regel von OERinfo verlinkt.
  
 Die Einzelbestandteile des Cupcakes (rote Kugeln, Orange Creme etc.)  haben tlw. unterschiedliche Lizenzen. Die restriktivste Lizenz ist die  CC BY-SA 4.0-Lizenz (Orange Creme). Somit muss das Gesamtwerk, der  Cupcake, mindestens die Lizenz CC BY-SA 4.0 erhalten.
 
-### Tags
-CC-Lizenz, Remixen, Verschmelzen
+## Information zum Beitrag
 
-### Lizenznachweis
-Frank Homp für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 30.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Tags*: CC-Lizenz, Remixen, Verschmelzen
+
+*Lizenzhinweis*: Frank Homp für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 30.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
