@@ -4,7 +4,7 @@
 
 Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
-![school-calculator_1](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062)
+![Bild von einem Taschenrechner](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062 "Bild von einem Taschenrechner")
 
 - **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)** | Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
 - **[studiVEMINT](https://www.orca.nrw/kurse/studivemint)** | Mathematikkurs in 13 Lerneinheiten zur Wiederholung der Schulmathenmatik. Kurze theoretische Einführungen werden ergänzt mit umfangreichen Übungsaufgaben und Erklärvideos.
@@ -19,12 +19,10 @@ Die Angebote sind als Open Educational Resources unter CC BY oder CC  BY-SA Lize
 
 [Zur Webseite Studieneingangs­phase auf ORCA.nrw](https://www.orca.nrw/studierende/studieneingangsphase)
 
-### Bildnachweise
-Grafik von [CocoMaterial](https://cocomaterial.com/) CC0
+## Information zum Beitrag
 
-### Tags
-Studienstart, Selbstlernkurse, Mathematik
+*Bildnachweis:* Grafik von [CocoMaterial](https://cocomaterial.com/) CC0
 
-### Lizenznachweis
-Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 28.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Tags*: Studienstart, Selbstlernkurse, Mathematik
 
+*Lizenzhinweis*: Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 28.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
