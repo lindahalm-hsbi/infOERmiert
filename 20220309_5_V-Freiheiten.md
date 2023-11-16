@@ -10,7 +10,7 @@ Der Bestandteil „Open“ in „Open Educational Resources” verweist auf **f�
 - Vermischen
 - Verbreiten
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386" alt="Offenheit" title="Offenheit" width="150"/> Diese Freiheiten gibt es (nur) mit offenen Lizenzen. Damit hat man  mit OER rechtlich gesehen viel mehr Freiheiten bei der Nachnutzung als  mit Materialien, die unter keiner offenen Lizenz stehen. Insbesondere  sind Anpassungen an individuelle Lehr-/Lernbedürfnisse erlaubt.
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386" style="float:left" alt="Offenheit" title="Offenheit" width="150"/> Diese Freiheiten gibt es (nur) mit offenen Lizenzen. Damit hat man  mit OER rechtlich gesehen viel mehr Freiheiten bei der Nachnutzung als  mit Materialien, die unter keiner offenen Lizenz stehen. Insbesondere  sind Anpassungen an individuelle Lehr-/Lernbedürfnisse erlaubt.
  
 Eine gute und kurze Erläuterung zu diesen 5V-Freiheiten finden Sie z.B. in einem [Video der Informationsstelle OER](https://www.youtube.com/watch?v=ai2lZ8e4W8Y) (OERinfo).
 
