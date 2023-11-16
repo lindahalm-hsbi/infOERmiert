@@ -6,6 +6,8 @@ Alle Tracks stehen unter der Lizenz CC BY 4.0 – das bedeutet, Sie dürfen die
 
 ![Aus Papier ausgeschnittene Illustrationen auf einer gelben Fläche: Ein Laptop, darauf eine Lehrperson und daneben ein Reagenzglas; Musik-Noten, tanzende Figuren, eine Figur mit Kopfhörer und das Logo von ORCA.nrw](https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/801af9f2-5089-44f6-9ff7-25cb3947a896 "OER Tracks Schnipsel")
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/148337008/801af9f2-5089-44f6-9ff7-25cb3947a896" alt="Aus Papier ausgeschnittene Illustrationen auf einer gelben Fläche: Ein Laptop, darauf eine Lehrperson und daneben ein Reagenzglas; Musik-Noten, tanzende Figuren, eine Figur mit Kopfhörer und das Logo von ORCA.nrw" title="OER Tracks Schnipsel" caption="Foto 'OER Tracks Schnipsel' von Elisabeth Scherer" width="400"/> 
+
 
 ## Weiterlesen bzw. -hören
 
