@@ -2,7 +2,7 @@
  
 **Creative Commons-Lizenzen**  (kurz: CC-Lizenzen) bestehen aus verschiedenen Bausteinen, welche die  einzelnen Nutzungsbedingungen abbilden. Eine mögliche Bedingung ist „ND“  (no derivatives).
 
-![Symbol zum Lizenzmodul "ND"](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/4a0f9f15-c482-45ad-9326-b210cfc7a391)
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/4a0f9f15-c482-45ad-9326-b210cfc7a391" style="float:left" alt="Symbol ND" title="Symbol ND" width="150"/> 
  
 CC-lizenzierte Materialien mit einer **„ND“-Bedingung**  (CC BY-ND und CC BY-NC-ND) dürfen nicht bearbeitet oder geändert werden  bzw. das Recht, Bearbeitungen und Änderungen vorzunehmen, ist  ausschließlich dem\*der Urheber\*in vorbehalten. Wenn Sie also  CC-lizenzierte Materialien mit einer **ND-Bedingung nachnutzen möchten, dürfen Sie keine bearbeitete bzw. geänderte Version des Materials veröffentlichen oder mit anderen teilen** (es sei denn, Sie haben eine zusätzliche Erlaubnis dazu erhalten).
  
