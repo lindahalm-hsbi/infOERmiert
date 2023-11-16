@@ -13,12 +13,11 @@ Aus [§ 3 UrhG](https://www.gesetze-im-internet.de/urhg/__3.html) (Urheberrechts
 Die SA-Bedingung kann dabei helfen, **kommerzielle Nachnutzung der eigenen Materialien einzuschränken**.  Unternehmen werden oftmals nicht bereit sein, z. B. ihre Produkte der  Allgemeinheit mit einer CC BY-SA Lizenz zur Verfügung zu stellen, was  sie müssten, wenn das Produkt bearbeitete CC BY-SA lizenzierte Teile  enthalten würde (dieses gilt für s. g. [Verschmelzungen](https://irights.info/artikel/kombinieren-bearbeiten-remixen-oer-richtig-verwenden/28560) von Werken).
  
 Allerdings sollte man sich als Autorin oder Autor sehr genau überlegen, warum man das möchte. **„Kommerziell“ ist keine moralische Wertung**  und der Nutzen von qualitativ hochwertigen (wissenschaftsbasierten)  Materialien für die Gesellschaft ist nicht hoch genug einzuschätzen,  selbst wenn ein Verlag das Material in die breite Öffentlichkeit trägt.  Zur Problematik der NC-Bedingung siehe [CoP-Beitrag von Tassja Weber](https://community.orca.nrw/content/perma?id=79379).
- 
-### Bildnachweise
-Das [SA-Icon](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/).
 
-### Tags
-CC-Lizenzen, Creative Commons
+## Information zum Beitrag
 
-### Lizenznachweis
-Magdalena Spaude für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 01.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Bildnachweis:* Das [SA-Icon](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png) in diesem Beitrag stammt von [Creative Commons](https://creativecommons.org/about/downloads/).
+
+*Tags*: CC-Lizenzen, Creative Commons
+
+*Lizenzhinweis*: Magdalena Spaude für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 01.06.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
