@@ -6,10 +6,10 @@ Haben  Sie Lehrmaterial erstellt, an dem auch andere Lehrende Interesse haben  k
 
 Vor dem Upload können Sie die Netzwerkstelle ORCA.nrw an Ihrer  Hochschule kontaktieren: sie prüft mit Ihnen zusammen ihr hochzuladendes  Material auf OER-Fähigkeit und beantwortet Ihre verbleibenden Fragen,  z. B. zum Urheberrecht. Sie erklärt, welche Creative Commons-Lizenz für  Sie passend ist, wie Sie ihr Material für den Upload technisch und  inhaltlich vorbereiten können und welche Informationen Sie beim Upload  bereit halten sollten.
 
-## Weiterlesen
+### Weiterlesen
 Wie genau der Upload- und Freischaltungsprozess von OER im Landesportal  funktioniert, beantwortet das Content-Management-Team vom Landesportal  ORCA.nrw in diesem [Blogbeitrag](https://www.orca.nrw/blog/der-weg-des-contents-in-das-landesportal "Der Weg des OER-Contents in das Landesportal (Blogbeitrag)").
 
-## Information zum Beitrag
+### Information zum Beitrag
 
 *Bildnachweis:* Screenshot ORCA-Postkarte; nicht CC-lizenziert
 
