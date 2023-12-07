@@ -3,7 +3,7 @@
 
 <a href="https://de.wikipedia.org/wiki/Wikipedia:Hauptseite" target="_blank">Wikipedia</a> und <a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank">Wikimedia Commons</a> sind sehr gute Quellen für Werke unter einer offenen <a href="https://de.creativecommons.net/start/" target="_blank">Creative Commons-Lizenz</a> und somit für OER. Neben Texten, Audios und Videos, ist dort auch eine sehr umfangreiche Bildersammlung zur Nachnutzung zu finden. Wenn Sie nun Bilder oder Fotos von Wikipedia oder Wikimedia Commons nutzen möchten, fragen Sie sich vielleicht, wie die korrekte Lizenzangabe dazu aussehen kann. Hier hilft der Lizenzhinweisgenerator schnell weiter.
 
-![lizenzhinweisgenerator](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/8f7782df-19bb-4d62-a313-68152a16d34e "Screenshot vom Lizenzhinweisgenerator")
+![Lizenzhinweisgenerator](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/8f7782df-19bb-4d62-a313-68152a16d34e "Screenshot vom Lizenzhinweisgenerator")
 
 
 Mit nur wenigen Fragen leitet der Generator Sie zur vollständigen Angabe, welche alle relevanten Bestandteile einer korrekten Lizenzangabe enthält. Die fertige Lizenzangabe können Sie dann ganz einfach kopieren.
