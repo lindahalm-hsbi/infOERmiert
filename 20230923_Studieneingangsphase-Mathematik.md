@@ -4,7 +4,7 @@
 
 Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
-![Bild von einem Taschenrechner](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062 "Bild von einem Taschenrechner")
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d0c1318a-96a3-4f27-8197-04260632d062" style="float: right; margin: 20px 0px 20px 50px" alt="Bild von einem Taschenrechner" title="Bild von einem Taschenrechner" /> 
 
 - **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)** | Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
 - **[studiVEMINT](https://www.orca.nrw/kurse/studivemint)** | Mathematikkurs in 13 Lerneinheiten zur Wiederholung der Schulmathenmatik. Kurze theoretische Einführungen werden ergänzt mit umfangreichen Übungsaufgaben und Erklärvideos.
