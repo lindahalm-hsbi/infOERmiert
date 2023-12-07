@@ -1,9 +1,9 @@
 # EILD.nrw: Entwicklung von Inhalten für die Lehre im Fach Datenbanken
 **EILD.nrw: E**ntwicklung von **I**nhalten für die **L**ehre im Fach **D**atenbanken
  
-Im OERContent.nrw-Projekt [EILD](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)  wurden offene Bildungsmaterialien für das Fach „Datenbanken“  entwickelt. Beteiligt waren die FH Dortmund, HS Bonn-Rhein-Sieg, HS  Düsseldorf und TH Köln. Dabei ist eine beeindruckende Sammlung an  Lehr-/Lernmaterial zusammengekommen. Insgesamt wurden über 100  Lehrvideos, 10 interaktive Präsentationen, 12 interaktive  Trainingstools, 7 programmierbare Tools und ganze 5 LMS-Kurse an  ORCA.nrw übergeben.
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d5ce6216-87fc-4a48-ba07-653c0035f99d" style="float: left; margin: 20px 50px 20px 0px" alt="EILD-Projekt-Logo_mit Label" title="EILD-Projekt-Logo_mit Label"/> 
 
-![EILD-Projekt-Logo_mit Label](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/d5ce6216-87fc-4a48-ba07-653c0035f99d "EILD-Projekt-Logo_mit Label")
+Im OERContent.nrw-Projekt [EILD](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)  wurden offene Bildungsmaterialien für das Fach „Datenbanken“  entwickelt. Beteiligt waren die FH Dortmund, HS Bonn-Rhein-Sieg, HS  Düsseldorf und TH Köln. Dabei ist eine beeindruckende Sammlung an  Lehr-/Lernmaterial zusammengekommen. Insgesamt wurden über 100  Lehrvideos, 10 interaktive Präsentationen, 12 interaktive  Trainingstools, 7 programmierbare Tools und ganze 5 LMS-Kurse an  ORCA.nrw übergeben.
 
 Sortiert sind die Materialien nach den Lernmodulen des  Datenbank-Entwicklungszyklus von 1. „Konzepte von Datenbanksystemen“ bis  9. „Datenanalyse“.
 
