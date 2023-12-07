@@ -2,7 +2,7 @@
  
 Sie sind auf der Suche nach offen lizenzierten Fotos, die Sie **frei verwenden** dürfen?
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/1a4d3c62-d7b3-4295-9f4c-9b3204c3b8e2" style="float: left; margin: 0 20px 20px 0" alt="Zwei Fernrohre mit Ausrichtung zum Meer" title="Friendly working binoculars" width="300"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/1a4d3c62-d7b3-4295-9f4c-9b3204c3b8e2" style="float: left; margin: 0 50px 20px 0" alt="Zwei Fernrohre mit Ausrichtung zum Meer" title="Friendly working binoculars" width="300"/> 
 
 Mit [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)-Lizenzen versehene Bilder können Sie ohne Bedingungen nach Ihren Wünschen **kostenlos nutzen, remixen oder bearbeiten**.  Spezielle Angaben zum Ursprungsort der Bilder oder die Namensnennung  der Urheber\*innen sind bei dieser Lizenz nicht verpflichtend. Im  Zusammenhang guter wissenschaftlicher Praxis wird allerdings dringend  empfohlen, CC0 1.0-lizenzierte Materialien durch eine **Quellenangabe** gemäß [TULLU-Regel](https://open-educational-resources.de/oer-tullu-regel/)  zu kennzeichnen. Darüber hinaus erleichtert dies nicht nur die  Nachnutzung der Materialien, sondern bringt auch den Urheber\*innen des  Ursprungsmaterials die entsprechende Anerkennung entgegen und fördert  somit eine **Kultur des Teilens**.
  
