@@ -4,7 +4,7 @@
 
 Was sind gute Suchbegriffe? Wie erkenne ich „Fake Science?“ Und wo  fängt ein Plagiat an? Die Materialien aus dem Projekt digi-komp.nrw  helfen beim **wissenschaftlichen Arbeiten** und eignen sich daher für den Einsatz in vielen Fachbereichen.
 
-![Bildschirmfoto 2023-08-30 um 09 49 23](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/0436787f-9d17-4448-bfae-873bfe4dc191 "Screenshot aus dem Video Bibliometrie")
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/0436787f-9d17-4448-bfae-873bfe4dc191" style="float: center; margin: 20px 0px 20px 0px" alt="Screenshot aus dem Video Bibliometrie - Bildschirmfoto 2023-08-30 um 09 49 23" title="Screenshot aus dem Video Bibliometrie" /> 
  
 **Um was geht es?**
  
