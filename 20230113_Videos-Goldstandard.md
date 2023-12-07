@@ -1,6 +1,8 @@
 # Videos produzieren & miteinander teilen – Der OER-Goldstandard für Videos
  
-![Gold-Standard-Video-1024x602](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/cf06f8b0-2190-4c79-850f-8737e5147b94) Der OER-Goldstandard unterstützt Sie dabei, Ihre produzierten Videos  möglichst offen zu veröffentlichen, sodass diese durch andere Lehrende  einfach genutzt und bearbeitet werden können.
+![Gold-Standard-Video-1024x602](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/cf06f8b0-2190-4c79-850f-8737e5147b94) 
+
+Der OER-Goldstandard unterstützt Sie dabei, Ihre produzierten Videos  möglichst offen zu veröffentlichen, sodass diese durch andere Lehrende  einfach genutzt und bearbeitet werden können.
  
 ![1f949](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/75bf4f21-d6fe-488b-8250-bc7ce622542b) **OER-Bronzestandard:**
  
