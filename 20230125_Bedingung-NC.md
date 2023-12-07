@@ -2,7 +2,7 @@
  
 **Creative Commons Lizenzen**  (kurz: CC-Lizenzen) bestehen aus verschiedenen Bausteinen, die die  einzelnen Nutzungsbedingungen abbilden. Eine mögliche Bedingung ist „NC“  (non commercial).
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/3ded266d-8979-4e34-92b2-fb32f5e09888" style="float:left" alt="Symbol NC" title="Symbol NC" width="150"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/3ded266d-8979-4e34-92b2-fb32f5e09888" style="float:left; margin: 0px 50px 0px 0px" alt="Symbol NC" title="Symbol NC" width="150"/> 
 
 CC-lizenzierte Materialien mit einer **„NC“-Bedingung**  (CC BY-NC, CC BY-NC-SA und CC BY-NC-ND) dürfen nicht für kommerzielle  Zwecke verwendet werden. Auf den ersten Blick scheint es ggf.  nachvollziehbar, bei der Lizenzierung eigener Materialien die Bedingung  „NC“ zu wählen. Die Annahmen dahinter: Die Materialien sollen nachhaltig  offen und frei für Bildungszwecke zur Verfügung stehen, Verlage sollen  sich mit den Materialien keine ‚goldene Nase‘ verdienen, etc. **Was dabei häufig übersehen wird**:  Mit der Wahl der „NC“-Bedingung schränkt man die Nachnutzung  entsprechender Materialien stärker ein als man beabsichtigt, und im  Zweifel können die Materialien (gar) nicht nachgenutzt werden.
  
