@@ -1,5 +1,7 @@
 # Urheberrecht und freie Lizenzen: Eine sehenswerte Einführung
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/6b027772-0475-47c6-b226-9ecb245152d5" style="float: right; margin: 20px 0px 20px 50px" alt="Screenshot des Videos" title="Screenshot des Videos" width="450px"/> 
+
 Was genau versteht man unter freien Lizenzen? Warum sind freie Lizenzen überhaupt wichtig, damit eine vielfältige Nachnutzung von Inhalten erlaubt ist? Und was hat das geltende Urheberrecht damit zu tun?
 
 **Prof. Dr. Paul Klimpel** setzt sich für die Bekanntheit des Creative-Commons-Lizenzmodels ein und engagiert sich in Projekten zu Offenen Bildungsmaterialien. In einem ca. 20 minutigen **Video** erklärt er gut strukturiert und klar verständlich die Grundlagen zu Urheberrecht und freien Lizenzen. Der Vortrag zeigt u.a., welche Grenzen das Urheberrecht für die Lehre hat und macht deutlich, welche Möglichkeiten sich hier durch freie Lizenzen eröffnen. Eine absolute Guck-Empfehlung!
