@@ -1,6 +1,6 @@
 # Grafiken zur freien (Nach-)Nutzung – die „Open Access Icons“
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/f8ae6c8e-844c-4de5-8719-865c936f16d3" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: Glühbirne in Schatzkiste" title="Icon: Glühbirne in Schatzkiste" width="450px"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/f8ae6c8e-844c-4de5-8719-865c936f16d3" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: Glühbirne in Schatzkiste" title="Icon: Glühbirne in Schatzkiste" width="250px"/> 
 
 Sie suchen nach passenden **Grafiken** für Ihre Präsentation/Website/Lehrmaterialien o.ä.? Am besten solche, die schlicht und dennoch aussagekräftig sind und die Sie nach Ihren Bedürfnissen frei verwenden und anpassen können?
 
