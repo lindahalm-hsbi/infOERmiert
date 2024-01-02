@@ -1,0 +1,23 @@
+# Grafiken zur freien (Nach-)Nutzung – die „Open Access Icons“
+
+Sie suchen nach passenden **Grafiken** für Ihre Präsentation/Website/Lehrmaterialien o.ä.? Am besten solche, die schlicht und dennoch aussagekräftig sind und die Sie nach Ihren Bedürfnissen frei verwenden und anpassen können?
+
+Dann sind die „Open Access Icons“ von Julian Kücklich genau das Richtige für Sie!
+
+Die Grafiken sind im Rahmen des Projekts zur [Open-Access-Strategie des Landes Brandenburg](https://mwfk.brandenburg.de/sixcms/media.php/9/MWFK_Open_Access_DIN_A4_BARRIERREFREI.pdf) entstanden und stehen unter der freien CC Lizenz [CC 0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) kostenlos zur Nachnutzung zur Verfügung. D.h. Sie können die Icons verwenden, vervielfältigen, verändern, vermischen und weiterverbreiten.
+
+Ein Beispiel-Icon aus der Sammlung finden Sie in diesem Beitrag.
+
+**Neugierig geworden?** Die "Open Access Icons" gibt es in zwei Paketen; Sie finden sie [hier](https://zenodo.org/record/3674561#.YlBOitNBwlw) (Teil 1) und [hier](https://zenodo.org/record/5608845#.YlPUTtNBwlw) (Teil 2) zum Download.
+
+* * *
+
+***Hinweis***: Obwohl der\*die Urheber\*in bei der Lizenz CC 0 nicht namentlich erwähnt werden muss, empfiehlt sich bei der Nachnutzung dennoch eine kurze Herkunftsangabe.
+
+## Information zum Beitrag
+
+*Bildnachweise*: Die Grafik in diesem Beitrag stammt von Julian Kücklich und ist lizenziert unter der Lizenz [CC 0](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Quelle: [Zenodo](https://zenodo.org/record/5608845#.YlPUTtNBwlw).
+
+*Tags*: OER, Medien
+
+*Lizenznachweis*: Tassja Weber für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 13.04.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
