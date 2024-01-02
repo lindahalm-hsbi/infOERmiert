@@ -1,5 +1,7 @@
 # Freie Personengrafiken für alle!
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/c64c90f6-8446-4ae7-aace-838ea4b54d0f" style="float: right; margin: 20px 0px 20px 50px" alt="Personengrafiken-Collage" title="Personengrafiken-Collage" width="250px"/> 
+
 Sie sind auf der Suche nach frei verwendbaren Personengrafiken?
 
 Mit [Open Peeps](https://www.openpeeps.com/) steht Ihnen eine komplette Bibliothek an verschiedenen Personengrafiken von [Pablo Stanley](https://www.instagram.com/pablostanley/) zum [Download](https://pablostanley.gumroad.com/l/openpeeps?wanted=true) und zur offenen Nutzung zur Verfügung.
