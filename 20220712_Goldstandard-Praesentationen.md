@@ -1,5 +1,7 @@
 # 5 Tipps für die Erstellung von Präsentationsfolien als OER!
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/9687140c-b7dc-4b17-a38a-81e0d4db0896" style="float: right; margin: 20px 0px 20px 50px" alt="Symbolbild für den Goldstandard" title="Symbolbild für den Goldstandard" width="250px"/> 
+
 „Wo fange ich an?“ ist häufig die Frage, wenn man beginnen möchte, selbst OER-Materialien zu produzieren. Das Buch „[Der Gold-Standard für OER-Materialien](https://open-educational-resources.de/goldstandard-folien/)“ gibt hilfreiche Empfehlungen, wie z.B. aus Präsentationsfolien ganz einfach OER-Materialien werden können. **5 Tipps** lassen sich daraus ableiten:
 
 1. **Die Wahl des richtigen Tools**: Das ideale Tool gibt es nicht. Möglich ist die Nutzung z.B. von Microsoft Office (aufgrund der weiten Verbreitung), LibreOffice, Google Slides oder auch SlideWiki.
