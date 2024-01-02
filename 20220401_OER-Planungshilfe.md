@@ -1,5 +1,8 @@
 # Die OER-Planungshilfe - Schritt für Schritt zur OER
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/d928f287-86ed-486f-b5b9-591cdb85e670" style="float: left; margin: 20px 50px 20px 0px" alt="Screenshot der OER-Planungshilfe" title="Screenshot der OER-Planungshilfe" width="450px"/> 
+
+
 **Haben Sie bereits die OER-Planungshilfe von [twillo](https://www.twillo.de/oer/web/) (OER-Portal Niedersachsen) entdeckt?**
 
 Mit dem Tool generieren Sie in fünf Schritten einen Leitfaden, der individuelle Hinweise zur Erstellung und Bereitstellung freier Bildungsmaterialien im OER-Standard beinhaltet. Zusätzlich erhalten Sie – immer passend zur geplanten OER – formale und didaktische Empfehlungen sowie Tipps zu Werkzeugen. Am Ende können Sie sich Ihren Leitfaden als PDF ausgeben lassen.
