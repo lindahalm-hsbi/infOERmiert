@@ -18,7 +18,7 @@ Die Rechtsinformationsstelle führt Infoveranstaltungen, Workshops und Webinare 
 
 - Besuchen Sie den Webauftritt der Rechtsinformationsstelle: [Rechtsinformationsstelle Im Landesportal ORCA.nrw](https://www.orca.nrw/lehrende/rechtsinformation)
 
-- Und wer sich jetzt noch etwas ausführlicher mit dem Thema NC-Lizenz beschäftigen will, sollte sich den Beitrag von [Tassja Weber “CC-Lizenzen: Die Problematik der “NC”-Bedingung”](https://community.orca.nrw/s/cop/?contentId=79379) ansehen.
+- Und wer sich jetzt noch etwas ausführlicher mit dem Thema NC-Lizenz beschäftigen will, sollte sich den Beitrag von [Tassja Weber “CC-Lizenzen: Die Problematik der “NC”-Bedingung”](https://lindahalm-hsbi.github.io/infOERmiert/document.html#bedingung-nc.md__cc-lizenzen-die-problematik-der-nc-bedingung) ansehen.
 
 ## Information zum Beitrag
 
