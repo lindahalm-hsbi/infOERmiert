@@ -1,6 +1,6 @@
 # Die OER-Planungshilfe - Schritt für Schritt zur OER
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/d928f287-86ed-486f-b5b9-591cdb85e670" style="float: right; margin: 20px 50px 20px 0px" alt="Screenshot der OER-Planungshilfe" title="Screenshot der OER-Planungshilfe" width="450px"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/d928f287-86ed-486f-b5b9-591cdb85e670" style="float: right; margin: 20px 0px 20px 50px" alt="Screenshot der OER-Planungshilfe" title="Screenshot der OER-Planungshilfe" width="450px"/> 
 
 
 **Haben Sie bereits die OER-Planungshilfe von [twillo](https://www.twillo.de/oer/web/) (OER-Portal Niedersachsen) entdeckt?**
