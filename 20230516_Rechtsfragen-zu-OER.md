@@ -1,5 +1,7 @@
 # Rechtsfragen zu OER? Hier wird geholfen!
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/8cb6e2fa-a105-4360-843c-cfc931922c4e" style="float: right; margin: 20px 0px 20px 50px" alt="Symbolbild OER/Recht" title="Symbolbild OER/Recht"/> 
+
 Eigentlich ist das alles ganz einfach mit den OER. Da gibt es eindeutige Lizenzen, die sind gut sichtbar am Material angebracht und sagen mir genau, wie ich es weiterverwenden darf. Ich bin auf der rechtlich sicheren Seite, wenn ich das Material nutze, verändere und weitergebe und ebenfalls wieder unter eine eindeutige Lizenz stelle.
 
 Soweit die Theorie.
