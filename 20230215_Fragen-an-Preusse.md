@@ -1,4 +1,4 @@
-# **Stimmen der OER-Community – 3 Fragen an Dr. Sabine Preusse**
+# Stimmen der OER-Community – 3 Fragen an Dr. Sabine Preusse
 
 <img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/840bbae4-43f4-4c1d-8cdf-fa1438d09971" style="float: right; margin: 20px 0px 20px 50px" alt="Foto von Dr. Sabine Preusse" title="Foto von Dr. Sabine Preusse" width="250px"/> 
 
