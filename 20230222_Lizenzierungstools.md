@@ -1,4 +1,4 @@
-# **Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht**
+# Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht
 
 <img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/983fb2ad-f5ef-42b9-b566-19dbda6f7e54" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: CC-Stempel" title="Icon: CC-Stempel" width="250px"/> 
 
