@@ -4,6 +4,8 @@
 
 Mit H5P können Sie interaktive Aufgaben und Übungen gestalten. Als Open Source Software eignet sich H5P bestens, um offene Bildungsmaterialien zu entwickeln, die interaktiv und motivierend sind.
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/69cf8828-66cf-4bad-bd9d-495ff1ec5677" style="float: left; margin: 20px 50px 20px 0px" alt="Screenshot einer Karteikarte" title="Screenshot einer Kartekarte" width="250px"/> 
+
 Plattformunabhängig können OERs erstellt und auf Webseiten oder in Lernmanagementsysteme integriert werden.
 
 H5P verfügt über mehr als 40 verschiedene Aufgaben- bzw. Inhaltstypen. Diese reichen von einfachen Quizfragen bis zu der Möglichkeit, interaktive Videos, Szenarien oder Präsentationen zu erstellen. Alles, was Sie dazu brauchen, ist eine H5P-Editorsoftware, wie z.B. die Desktop-App [Lumi](https://app.lumi.education/) oder den in ILIAS oder moodle integrierten H5P-Editor.
