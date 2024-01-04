@@ -1,5 +1,6 @@
 # Für Ihre Studierenden: Selbsttest zu sprachlichen Anforderungen im Studium
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/34297c9e-2941-4f96-8b11-55d098388e20" style="float: right; margin: 20px 0px 20px 50px" alt="Symbolbild für Selbsttest" title="Symbolbild für den Selbsttest" width="450px"/> 
 
 **[ORCA.nrw](https://www.orca.nrw/)** bietet für Studierende einen Bereich namens **[Studieneingangsphase](https://www.orca.nrw/studierende/studieneingangsphase)** an. Sie als Lehrende können diesen Ihren Studienanfänger\*innen empfehlen. Neben Self-Assessments sowie Lern- und Unterstützungsangeboten für Mathe wird auch ein **[Test zum Sprach und Textverständnis](https://www.orca.nrw/assessments/sprach-und-textverstaendnis)** angeboten, zu dem es auch ein passendes **[Lernangebot](https://www.orca.nrw/kurse/sprach-und-textverstaendnis)** gibt. Dieser Test soll hier vorgestellt werden.
 
