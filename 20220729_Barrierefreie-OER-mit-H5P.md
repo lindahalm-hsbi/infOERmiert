@@ -1,5 +1,7 @@
 # Einsatz von H5P zur Erstellung barrierefreier OER
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/d1b94fc5-c9af-46fe-899a-62e91d28a317" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: Symbolbild für Barrierefreiheit" title="Icon: Symbolbild für Barrierefreiheit" width="250px"/> 
+
 Die Gestaltung von interaktiven Inhalten mit H5P erfreut sich großer Beliebtheit. Unterschiedliche Inhaltstypen wie Lückentexte, Quizze oder Präsentationen bieten vielfältige Möglichkeiten Lerneinheiten zu erstellen. Doch welche Aspekte können bedacht werden, um diese Lerneinheiten möglichst barrierefrei zu gestalten?
 
 1. **Auswahl eines geeigneten Inhaltstypen**: Derzeit werden 39 der 54 Inhaltstypen, die auf [H5P.com](http://h5p.com/) verfügbar sind, in der [Dokumentation als 'accessible' gelistet](https://documentation.h5p.com/content/1290410474004879128). Die Überprüfung der Barrierefreiheit orientierte sich unter anderem an den [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/), die die vier Prinzipien Wahrnehmbarkeit, Bedienbarkeit, Verständlichkeit und Robustheit umfassen.
