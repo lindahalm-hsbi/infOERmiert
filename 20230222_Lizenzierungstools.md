@@ -1,5 +1,7 @@
 # **Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht**
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/983fb2ad-f5ef-42b9-b566-19dbda6f7e54" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: CC-Stempel" title="Icon: CC-Stempel" width="250px"/> 
+
 Wenn Sie **Ihre eigenen Lehr-Lern-Materialien** für andere – insbesondere Lehrende – **nachnutzbar** machen möchten, dann müssen Sie eine Erlaubnis, eine **Lizenz dafür** vergeben. Sonst darf man sich Ihre Materialien lediglich anschauen, wenn sie veröffentlicht sind.
 
 Als Standard haben sich dafür die **Creative-Commons-Lizenzen** etabliert. Man wählt aus den [7 verschiedenen Lizenzen](https://wb-web.de/material/medien/die-cc-lizenzen-im-uberblick-welche-lizenz-fur-welche-zwecke-1.html) eine passende aus und fügt sie zu seinem Werk hinzu. Das kann in der Fußzeile eines Dokuments sein, auf der ersten oder letzten Folie der Präsentation oder im Abspann eines Videos.
@@ -11,6 +13,7 @@ Auch wenn die Gestalt dieser Lizenz variabel ist, so gibt es doch **einige fests
 
 Der Lizenzhinweis des OERhörnchens sieht beispielsweise so aus (wobei einige Phrasen auch weggelassen werden können, wie der erste Satz):
 
+![CC-Lizenzhinweis_OERhörnchen](https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/2c602235-a95d-4e51-b62b-a5a6990b1d03 "Screenshot eines Lizenzhinweises")
 
 Das **OERhörnchen** kann eventuell etwas **komfortabler** erscheinen, wie der Name aber schon sagt, können nur CC-Lizenzen vergeben werden, die mit der Offenheit von Open Educational Resources (OER) kompatibel sind, also CC0, CC BY und CC BY-SA. Mit dem Werkzeug der **Creative Commons** hingegen können auch Lizenzhinweise **für alle anderen Lizenzen generiert** werden, wie CC BY-NC-ND.
 
