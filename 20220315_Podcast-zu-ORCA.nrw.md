@@ -15,7 +15,7 @@ Im Podcast ZugehOERt von [OERinfo](https://open-educational-resources.de/) beant
 
 ## Information zum Beitrag
 
-*Bildnachweise*: 
+*Bildnachweise*: v.l.n.r. Susanne Grimm im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann, Collage: Susanne Grimm, nicht unter freier Lizenz
 
 *Tags*: OER
 
