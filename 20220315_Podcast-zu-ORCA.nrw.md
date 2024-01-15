@@ -1,5 +1,7 @@
 # Podcast zu ORCA.nrw und den ORCA-Berater\*innen an NRW-Hochschulen
 
+<img src="[https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/f8ae6c8e-844c-4de5-8719-865c936f16d3](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/13b5562f-b6dd-4937-a977-13cc7bb26c86)" style="float: right; margin: 20px 0px 20px 50px" alt="Collage: Fünf Personen und das Logo des Podcasts" title="Collage_Podcast-zugehOERt_Folge-ORCA.nrw_.png" width="250px"/> 
+
 Wie ist das Portal [ORCA.nrw](https://www.orca.nrw/) entstanden? Wer informiert über ORCA an den 37 öffentlich-rechtlichen Hochschulen in NRW darüber? Was sind die Aufgaben dieser Personen und unterscheiden sich diese je nach Hochschulart?
 
 Im Podcast ZugehOERt von [OERinfo](https://open-educational-resources.de/) beantworten diese Fragen der Geschäftsführer von ORCA.nrw [@Markus Deimann](https://community.orca.nrw/u/ext-user-markus.deimann-ruhr-uni-bochum.de/) sowie die Vertreter\*innen des ORCA-Netzwerks, die an verschiedenen Hochschularten zu ORCA und OER beraten, [@Alexander Kobusch](https://community.orca.nrw/u/ext-user-alexander.kobusch-fh-bielefeld.de/) (FH Bielefeld), [@Gabi Reichardt](https://community.orca.nrw/u/reichardt/) (Hochschule für Musik und Tanz Köln) und [@Magdalena Spaude](https://community.orca.nrw/u/ext-user-mspaude1-uni-koeln.de/) (Universität zu Köln).
