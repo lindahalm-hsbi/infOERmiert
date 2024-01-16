@@ -11,12 +11,10 @@ Im Podcast ZugehOERt von [OERinfo](https://open-educational-resources.de/) beant
 
 > Persönliche Unterstützung und Beratung zu OER finden Sie an Ihrer Hochschule bei den Mitarbeiter\*innen des [Netzwerks Landesportal](https://www.orca.nrw/lehrende/akteure/netzwerk "Karte der Netzwerkstellen in NRW").
 
-## Weiterlesen
-
 ## Information zum Beitrag
 
 *Bildnachweise*: v.l.n.r. Susanne Grimm im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann, Collage: Susanne Grimm, nicht unter freier Lizenz
 
-*Tags*: OER
+*Tags*: OER, ORCA.nrw, Podcast, Hochschule
 
 *Lizenznachweis*: Magdalena Spaude für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 15.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
