@@ -1,6 +1,6 @@
 # Auf zur Schnipsel-Jagd! Legevideos für OER produzieren
 
-![](https://community.orca.nrw/file/file/download?guid=9c8c9372-dc65-4516-b901-ee2ca65e8eef "Legevideo.png")
+![Legevideo](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/30d47bd8-40be-431d-927b-ae3624a0c043)
 
 Videos mit Legetechnik sind eine anschauliche und kreative Form der Visualisierung für komplexe Inhalte. Für den Einsatz in der Hochschullehre und damit auch für die Produktion von Open Educational Resources (OER) sind Legevideos daher sehr beliebt. Doch was brauche ich für ein solches Projekt? Wie starte ich am besten, und welche Fallstricke gibt es?
 
