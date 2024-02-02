@@ -17,7 +17,7 @@ Im Detail können Sie die Inhalte der Infoveranstaltung in der PDF-Datei [Die re
 
 ## Information zum Beitrag
 
-*Bildnachweise*: Eigener Screenshot Deckblatt
+*Bildnachweise*: Illustration: “Justice“, [CocoMaterial](https://cocomaterial.com/results?q=justice), lizenziert unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
 *Tags*: OER, Medienproduktion, Video, Datenschutz, Podcast, Recht
 
