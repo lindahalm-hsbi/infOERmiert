@@ -32,5 +32,5 @@ Möchten Sie mehr zum Thema erfahren? Hier geht es zum vollständigen Artikel vo
 
 *Tags*: OER, Online-Kurse, Selbstlernkurse
 
-*Lizenznachweis*: Laura Schaffeld für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+*Lizenznachweis*: Laura Schaffeld für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.02.2024, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
