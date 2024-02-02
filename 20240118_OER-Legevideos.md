@@ -1,6 +1,6 @@
 # Auf zur Schnipsel-Jagd! Legevideos für OER produzieren
 
-![Legevideo](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/30d47bd8-40be-431d-927b-ae3624a0c043)
+![Zwei Bilder: Bild 1 zeigt Aufnahmeraum inklusive Tisch mit ausgeschnittenen Papierschnipseln; Bild 2 zeigt die Papierschnipsel, also die Motive, wie gezeichnete Personen in groß. ](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/30d47bd8-40be-431d-927b-ae3624a0c043)
 
 Videos mit Legetechnik sind eine anschauliche und kreative Form der Visualisierung für komplexe Inhalte. Für den Einsatz in der Hochschullehre und damit auch für die Produktion von Open Educational Resources (OER) sind Legevideos daher sehr beliebt. Doch was brauche ich für ein solches Projekt? Wie starte ich am besten, und welche Fallstricke gibt es?
 
