@@ -9,8 +9,6 @@ Im Podcast ZugehOERt von [OERinfo](https://open-educational-resources.de/) beant
 * Dauer des Podcasts ca. 27 Minuten
 * [Zum Podcast](https://open-educational-resources.de/zugehoert-080-orca-nrw/)
 
-> Persönliche Unterstützung und Beratung zu OER finden Sie an Ihrer Hochschule bei den Mitarbeiter\*innen des [Netzwerks Landesportal](https://www.orca.nrw/lehrende/akteure/netzwerk "Karte der Netzwerkstellen in NRW").
-
 ## Information zum Beitrag
 
 *Bildnachweise*: v.l.n.r. Susanne Grimm im Gespräch mit Alexander Kobusch, Gabi Reichardt, Magdalena Spaude und Markus Deimann, Collage: Susanne Grimm, nicht unter freier Lizenz
