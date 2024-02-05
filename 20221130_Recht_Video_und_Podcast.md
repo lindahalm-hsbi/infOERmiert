@@ -22,5 +22,3 @@ Im Detail können Sie die Inhalte der Infoveranstaltung in der PDF-Datei [Die re
 *Tags*: OER, Medienproduktion, Video, Datenschutz, Podcast, Recht
 
 *Lizenznachweis*: Elisabeth Scherer für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 30.11.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-
-
