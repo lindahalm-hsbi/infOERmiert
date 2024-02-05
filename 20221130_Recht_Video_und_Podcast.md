@@ -1,4 +1,4 @@
-### **Welche rechtlichen Aspekte muss ich bei der Podcast- und Videoproduktion beachten?**
+# **Welche rechtlichen Aspekte muss ich bei der Podcast- und Videoproduktion beachten?**
 
 <img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/64beff97-23e0-4d26-97d2-af3a34ce6959" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: Waage der Justitia" width="250px"/> 
 
