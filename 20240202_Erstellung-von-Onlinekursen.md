@@ -1,5 +1,7 @@
 # Tipps für die Erstellung von Online-Kursen
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149467048/9596c51f-291f-48ca-b6df-9f4d471e830d" style="float: right; margin: 20px 0px 20px 50px" alt="Symbolbild für den Goldstandard für Online-Kurse" title="Symbolbild für den Goldstandard für Online-Kurse" width="250px"/> 
+
 Haben Sie schon einmal darüber nachgedacht einen Online-Kurs zu erstellen? Möchten Sie in diesem offene Bildungsressourcen nutzen oder ihn unter einer offenen Lizenz zur Verfügung stellen?
 
 Folgende Tipps, die aus dem [Gold-Standard für Online-Kurse als OER](https://open-educational-resources.de/goldstandard-onlinekurs/) abgeleitet sind, können als Ausgangspunkt hilfreich sein:
