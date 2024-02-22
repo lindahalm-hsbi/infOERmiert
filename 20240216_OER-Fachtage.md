@@ -1,6 +1,6 @@
 # Über geteilte Lehrmaterialien sprechen und sie teilen: Schätze von OER-Fachtagen
 
-<img src="[https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/6a4e8c48-ff89-4b59-a9ca-eb0771284fe7)" style="float:left; margin: 20px 50px 0px 0px" alt="Lachende Strichperson springt aus einem Tresor und wirft Zettel in die Luft" title="Alles für alle" width="150"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386" style="float:left; margin: 20px 50px 0px 0px" alt="Lachende Strichperson springt aus einem Tresor und wirft Zettel in die Luft" title="Alles für alle" width="150"/> 
 In den letzten zwei Jahren wurden in NRW 6 OER-Fachtage mit unterschiedlichen fachlichen Schwerpunkten durchgeführt:
 
 - Naturwissenschaften,
