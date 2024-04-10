@@ -1,5 +1,7 @@
 # Tipps zur Veröffentlichung von Podcasts als OER
 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/5d0ef400-c7e7-4af9-ac63-94cbb558d83e" style="float: right; margin: 20px 0px 20px 50px" alt="Zeichnung: Bild mit Goldrahmen, darin Icons von z. B. Kopfhörern, Lautsprechern und Mikrofonen" title="Der Gold-Standard für Podcast als OER" width="250px"/> 
+
 Haben Sie schon einmal darüber nachgedacht einen Podcast als OER zu veröffentlichen? Die folgenden Tipps, die aus dem Artikel „[Bildung auf die Ohren – Der Gold-Standard zur Veröffentlichung von Podcasts als OER](https://open-educational-resources.de/goldstandard-podcast/ "Bildung auf die Ohren – Der Gold-Standard zur Veröffentlichung von Podcasts als OER")“ abgeleitet sind, können dabei helfen.
 
 ## Konzeption & Produktion
