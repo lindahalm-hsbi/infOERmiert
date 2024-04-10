@@ -1,7 +1,8 @@
 # Wie können wir Open Educational Practices fördern?
 
 **Beitrag des Netzwerks ORCA.nrw beim DiKuLe-Symposium in Bamberg (21.–22. März 2024)**
-
+<img width="789" alt="Legevideo" src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/b6b16349-d816-4791-b604-f2c4c62b2282">
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/b6b16349-d816-4791-b604-f2c4c62b2282" style="float: right; margin: 20px 0px 20px 50px" alt="Screenshot aus einem Legevideo, Hand legt ausgeschnittene Bilder von Klemmbausteinen, auf denen Dinge mit OEP-Bezug angebracht sind" title="Screenshot aus dem Video ”Eine Kultur des Teilens hochschulübergreifend durch OER voranbringen" width="250px"/> 
 
 Morgen startet das diesjährige Symposium des [Projekts DiKuLe](https://www.uni-bamberg.de/dikule/ "Projekts DiKuLe") – Digitale Kulturen der Lehre entwickeln – in Bamberg. Schwerpunkt der Veranstaltung ist die moderne Gestaltung von Lehr- und Lernkulturen an Hochschulen. Dabei werden verschiedene Ebenen adressiert: Hochschule (z.B. Strategien, Studiengangsentwicklung), Lehre (z.B. Qualifizierung der Dozierenden, Lehrformate) und Rahmenbedingungen (z.B. rechtliche Vorgaben, technische bzw. technologische Ausstattung).
 
