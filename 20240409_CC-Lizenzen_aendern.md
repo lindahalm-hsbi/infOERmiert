@@ -1,6 +1,9 @@
 # CC-Lizenzen zurücknehmen oder ändern - Geht das überhaupt?
 
-![](https://community.orca.nrw/file/file/download?guid=6f3b901a-8481-456d-a246-725fb52b239d "CC_Lizenzen_aendern.png")Sie haben ein Material unter einer CC-Lizenz veröffentlicht. Im Nachhinein sind Sie jedoch nicht ganz glücklich mit der Lizenzwahl und würden gerne eine offenere Lizenz für Ihr Material vergeben. Doch ist das möglich?
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470876/95b93abb-fadb-4a23-8bf3-be71e1f37be4" style="float: right; margin: 20px 0px 20px 50px" alt="Icon: Person mit Denkblase, darin eine durchgestrichene CC-Lizenz, dahinter ein Pfeil, der auf eine weitere CC-Lizenz zeigt" title="Icon: CC-Lizenz-Überlegung" width="250px"/> 
+
+
+Sie haben ein Material unter einer CC-Lizenz veröffentlicht. Im Nachhinein sind Sie jedoch nicht ganz glücklich mit der Lizenzwahl und würden gerne eine offenere Lizenz für Ihr Material vergeben. Doch ist das möglich?
 
 Der Artikel [“Creative-Commons-Lizenzen zurücknehmen oder ändern”](https://irights.info/artikel/creative-commons-lizenzen-zuruecknehmen-oder-aendern/31722 "“Creative-Commons-Lizenzen zurücknehmen oder ändern”") von Georg Fischer auf [irights.info](http://irights.info/) widmet sich dem Thema und dient als Basis für diesen Beitrag und die folgenden Antworten:
 
