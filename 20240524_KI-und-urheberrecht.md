@@ -1,25 +1,28 @@
 # KI und Urheberrecht
- 
-![](https://community.orca.nrw/file/file/download?guid=165cccac-8912-4597-83d3-2154f9792727 "KI-Bild.jpg")Künstliche  Intelligenz (KI) ist aktuell ein präsentes Thema in vielen Diskussionen  im Hochschulkontext. Insbesondere die rechtliche Betrachtung wirft  einige Fragen auf. Dieser Beitrag fasst aktuelle urheberrechtliche  Einordnungen zusammen und geht dabei auf die Punkte ein, die für die  Erstellung und Nachnutzung von Open Educational Resources (OER) relevant  sind.
+
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/585606e1-0fb4-4e99-aec5-e20d4f55f6c7" style="float: left; width:250; margin: 20px 50px 20px 0px" alt="KI-Bild" title="KI-Bild"/> 
+Künstliche  Intelligenz (KI) ist aktuell ein präsentes Thema in vielen Diskussionen  im Hochschulkontext. Insbesondere die rechtliche Betrachtung wirft  einige Fragen auf. Dieser Beitrag fasst aktuelle urheberrechtliche  Einordnungen zusammen und geht dabei auf die Punkte ein, die für die  Erstellung und Nachnutzung von Open Educational Resources (OER) relevant  sind.
  
 ## Darf ich KI-Output in meinem OER-Material verwenden?
- 
 Ja, wenn die Ausnahmen berücksichtigt werden. Grundsätzlich ist der  Output einer KI nicht urheberrechtlich geschützt. Eine KI ist keine  natürliche Person und kann deshalb keine Urheberin sein. Auch die  betreibende Firma oder das Entwicklungsteam sind keine Urhebenden, was  in der Regel auch in den Nutzungsbedingungen der KI so festgehalten  wird. KI-Output ist generell also gemeinfrei und kann in OER verwendet  werden. Wird der KI-Output 1:1 übernommen, sollte er bei Verwendung mit  dem Public Domain Mark versehen werden und der KI-Gebrauch sollte  kenntlich gemacht werden, beispielsweise so:
 
 > *Dieser Text ist ein Beispieltext, der von ChatGPT generiert wurde. Er demonstriert die Fähigkeit des Modells, prägnante und relevante Informationen zu liefern. Mit ChatGPT können Sie Texte für verschiedene Zwecke erstellen.*
 > 
-> 
-> ![](https://community.orca.nrw/file/file/download?guid=60b5c617-a904-4164-a5a0-bc3c9b9cd558 "grafik.png") Text gemeinfrei, KI-generiert
+> ![publicdomain-grafik](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/1d277796-932c-4da5-8d79-66880a0130e2) Text gemeinfrei, KI-generiert
 
-> ![](https://community.orca.nrw/file/file/download?guid=f080e8c1-0100-4018-9346-a5c475182b11 "grafik.png")
+
 > 
+> 
+> ![KI-Bild](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/585606e1-0fb4-4e99-aec5-e20d4f55f6c7)
 > 
 > https://deepai.org/machine-learning-model/3d-objects-generator 
->  Prompt: Artificial Intelligence
->  Chosen Style: 3d Objects Generator
+>
+> Prompt: Artificial Intelligence
+>
+> Chosen Style: 3d Objects Generator
 > 
 > 
-> ![](https://community.orca.nrw/file/file/download?guid=60b5c617-a904-4164-a5a0-bc3c9b9cd558&amp;hash_sha1=dc949876 "grafik.png") Bild gemeinfrei, KI-generiert
+> ![publicdomain-grafik](https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/1d277796-932c-4da5-8d79-66880a0130e2) Bild gemeinfrei, KI-generiert
 
 ## Was sind die Ausnahmen?
  
