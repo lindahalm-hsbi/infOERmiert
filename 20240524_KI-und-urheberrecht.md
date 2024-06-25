@@ -1,6 +1,6 @@
 # KI und Urheberrecht
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/585606e1-0fb4-4e99-aec5-e20d4f55f6c7" style="float: left; width:250; margin: 20px 50px 20px 0px" alt="KI-Bild" title="KI-Bild"/> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/585606e1-0fb4-4e99-aec5-e20d4f55f6c7" style="float: left; margin: 20px 50px 20px 0px" alt="KI-Bild" title="KI-Bild" width="250px"/> 
 Künstliche  Intelligenz (KI) ist aktuell ein präsentes Thema in vielen Diskussionen  im Hochschulkontext. Insbesondere die rechtliche Betrachtung wirft  einige Fragen auf. Dieser Beitrag fasst aktuelle urheberrechtliche  Einordnungen zusammen und geht dabei auf die Punkte ein, die für die  Erstellung und Nachnutzung von Open Educational Resources (OER) relevant  sind.
  
 ## Darf ich KI-Output in meinem OER-Material verwenden?
