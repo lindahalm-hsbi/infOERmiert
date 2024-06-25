@@ -1,6 +1,6 @@
 # Der Gold-Standard zu (interaktiven) Arbeitsblättern und Übungen als OER
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/2c38725f-2a4c-402d-a364-a90ceb78769e" style="float: right; margin: 20px 0px 20px 50px" alt="Blatt Papier und 4 Stifte mit Sketchnotezeichnung" title="Visualisieren mit Sketchnotes für OER" width="250px" /> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/e36614e2-b9bc-44c0-a0bc-de4957ed88e8" style="float: right; margin: 20px 0px 20px 50px" alt="Blatt Papier und 4 Stifte mit Sketchnotezeichnung" title="Visualisieren mit Sketchnotes für OER" width="250px" /> 
 
 Arbeitsblätter und interaktive Übungen sind oft aus unterschiedlichen  Materialien zusammengesetzt (z.B. aus Texten, Bildern und Videos). Zu  diesen einzelnen Materialarten finden Sie [spezifische Goldstandard-Artikel auf OERinfo](https://open-educational-resources.de/gold-standard-buch-artikel/ "spezifische Goldstandard-Artikel auf OERinfo").  Um interaktive Übungen zu erstellen und diese als OER zu  veröffentlichen, können Sie darüber hinaus spezialisierte  Software-Lösungen nutzen.
  
