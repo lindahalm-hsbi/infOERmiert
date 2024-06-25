@@ -21,6 +21,7 @@ Ein weiterer Pluspunkt: Die Inhalte stehen als **offene Bildungsmaterialien (OER
 *Bildnachweise*: Aufnahme eines Wasserflohs (Daphnia pulex) via [UDE BioSLiDES](https://bioslides.biologie.uni-due.de/viewer.html?id=220 "UDE BioSLiDES") unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de "CC BY-SA 4.0"). Das Bildmaterial stammt von Dr. Michael Kloster, [UDE BioSLiDES](https://www.uni-due.de/bioslides/ "UDE BioSLiDES"), Universität Duisburg-Essen, Deutschland.
 
 *Tags*: OER, Biologie, Mikroskopie, OER-Projekte
+
 *Lizenznachweis*: Laura Schaffeld für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 18.06.2024, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 
