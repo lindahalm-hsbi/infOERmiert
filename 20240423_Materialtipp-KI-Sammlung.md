@@ -1,6 +1,6 @@
 # Material-Tipp: “KI für alle“ – OER-Materialien zur Entwicklung von KI-Kompetenzen
 
-<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/2c38725f-2a4c-402d-a364-a90ceb78769e" style="float: right; margin: 20px 0px 20px 50px" alt="Blatt Papier und 4 Stifte mit Sketchnotezeichnung" title="Visualisieren mit Sketchnotes für OER" width="250px" /> 
+<img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/147709351/ba82f168-91ce-4c5f-851d-996a5b6f820c" style="float: left; margin: 20px 0px 20px 50px" alt="Blatt Papier und 4 Stifte mit Sketchnotezeichnung" title="Visualisieren mit Sketchnotes für OER" width="500px" /> 
 
 ![](https://community.orca.nrw/file/file/download?guid=7ab1f345-d80e-43f5-b424-fbdad9858786 "KI für alle Twillo.png")
  
