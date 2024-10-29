@@ -1,4 +1,4 @@
-# **Eine Lizenz an eigenem Material anbringen – aber wie?**
+# Eine Lizenz an eigenem Material anbringen – aber wie?
  
 Wenn Sie Lehr-Lernmaterialien erstellt haben und diese gerne als OER  veröffentlichen möchten, bringen Sie einen Lizenzhinweis an ihrem  Material an. Durch diesen Hinweis wissen Nutzer\*innen Ihrer Materialien,  unter welcher Creative-Commons-Lizenz das Werk steht und was sie genau  damit machen dürfen.
  
