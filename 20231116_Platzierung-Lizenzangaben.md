@@ -1,7 +1,9 @@
 # Und wo soll die hin? Infos und Tipps zur Platzierung von Lizenzangaben
  
 Sie haben Materialien erstellt, die Sie unter einer offenen Lizenz  veröffentlichen möchten, oder verwenden fremde OER, und fragen sich nun,  wo Sie die Lizenzangabe(n) platzieren sollten? Dieser Beitrag gibt  Ihnen Hinweise und Tipps, um diese Frage zu beantworten.
- 
+
+<img src="https://github.com/user-attachments/assets/4ed2e095-fdf8-4db7-a179-5dfc15713ba6" style="float:left; margin: 0px 50px 0px 0px" alt="Grafik unter CC0" title="Grafik unter CC0" width="150"/> 
+
 **Soviel vorab**: Die Organisation Creative Commons gibt  selbst keine genauen Vorgaben, wo die Lizenzangaben platziert sein  müssen. Man kann sich jedoch an **zwei Prinzipien** orientieren:
  
 1. Die Lizenzangabe(n) ist/sind so platziert, wie es für das **jeweilige Format** angemessen erscheint.
