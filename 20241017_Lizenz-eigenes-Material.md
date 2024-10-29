@@ -8,11 +8,11 @@ Idealerweise gestalten Sie diesen Hinweis direkt als Zitiervorschlag  und liefer
 
 ![TULLUBA-Regel-Karte-Voderseite](https://github.com/user-attachments/assets/ca5a55b0-5902-480e-be7c-93df243cf638)
 
-In einem anderen Beitrag hier in der Community of Practice geben wir [Tipps dazu, wie solche Lizenzhinweise mit Hilfe von Tools noch einfacher generiert werden können](https://lindahalm-hsbi.github.io/infOERmiert/document.html#lizenzierungstools.md__vergeben-einer-creative-commons-lizenz-mit-kleinen-tools-leicht-gemacht "Tipps dazu, wie solche Lizenzhinweise noch einfacher generiert werden können").
+In einem anderen Beitrag hier in der Community of Practice geben wir [Tipps dazu, wie solche Lizenzhinweise mit Hilfe von Tools noch einfacher generiert werden können](https://lindahalm-hsbi.github.io/infOERmiert/document.html#lizenzierungstools.md__vergeben-einer-creative-commons-lizenz-mit-kleinen-tools-leicht-gemacht "Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht").
  
 ## Checkliste für das Anbringen von Lizenzhinweisen
  
-- Der Lizenzhinweis sollte **gut sichtbar** sein. Bei Videos bietet es sich z.B. an, den Hinweis auf die Lizenz direkt am Anfang des Videos zu integrieren, damit Nachnutzende sofort erkennen können, was sie mit dem Video machen dürfen. Genauer erklärt wird das im Beitrag von Tassja Weber "Beitrag zum Thema Platzierung von Lizenzhinweisen".
+- Der Lizenzhinweis sollte **gut sichtbar** sein. Bei Videos bietet es sich z.B. an, den Hinweis auf die Lizenz direkt am Anfang des Videos zu integrieren, damit Nachnutzende sofort erkennen können, was sie mit dem Video machen dürfen. Genauer erklärt wird das im Beitrag [Platzierung von Lizenzhinweisen](https://lindahalm-hsbi.github.io/infOERmiert/document.html#platzierung-lizenzangaben.md__und-wo-soll-die-hin-infos-und-tipps-zur-platzierung-von-lizenzangaben "Und wo soll die hin? Infos und Tipps zur Platzierung von Lizenzangaben").
 - Können aufgrund des Materialtyps keine anklickbaren Verlinkungen hinterlegt werden (z.B. bei Videos), so müssen die **Links komplett ausgeschrieben** werden.
 - Für den Link zur Lizenz wählen Sie den **direkten Link zum Lizenzvertrag (legalcode)**, d.h. *nicht* die ebenfalls von Creative Commons bereitgestellte Kurzfassung für Laien („Commons Deed“).
 - Die **Piktogramme** von Creative Commons müssen Sie zwar nicht nutzen, sie machen Ihre Angabe aber übersichtlicher und tragen zur Auffindbarkeit der Materialien bei. [Hier finden Sie die Piktogramme und Icons von Creative Commons zum Download](https://creativecommons.org/mission/downloads/ "Hier finden Sie die Piktogramme und Icons von Creative Commons zum Download").
