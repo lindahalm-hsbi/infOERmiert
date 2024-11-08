@@ -1,5 +1,7 @@
 # OER-Materialien aus der Förderlinie digiFellows
 
+<img src="https://github.com/user-attachments/assets/4832c488-f603-4017-852a-70c19b044527" style="float:right; margin: 0px 0px 0px 50px" alt="Zwei Frauen mit Schildern auf denen OER und OEP steht." title="Zwei Frauen mit Schildern auf denen OER und OEP steht." width="200"/>
+
 Die von 2016 bis 2022 durch das Ministerium für Kultur und Wissenschaft NRW geförderte Maßnahme digiFellwos: Fellowships für Innovationen in der digitalen Hochschullehre wurde bis 2019 in Kooperation mit dem [Stifterverband](https://www.stifterverband.org/digital-lehrfellows-nrw "Opens external link in new window") durchgeführt und von 2020 bis 2022 von den Hochschulen selbst vergeben. Seitdem erhielten alle förderfähigen Hochschulen in NRW jährlich je 50.000 € zur Förderung eines Projektes eines oder mehrerer Lehrenden.
 
 Viele der entstandenen Materialien wurden als OER veröffentlicht. Hier finden Sie eine nach Fächern sortierte [Liste der Projekte](https://www.dh.nrw/kooperationen/Digi-Fellows-2 "Liste der Projekte"). Wenn Sie Interesse an einem Projekt und seinen Lehr-Lernmaterialien haben, gibt es folgende Möglichkeiten der Suche:
